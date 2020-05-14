@@ -1,0 +1,2242 @@
+disease_id	name
+DIS000011	Citrus black spot
+DIS000013	Mach tuck
+DIS000014	Citrus greening disease
+DIS000023	Salmon poisoning disease
+DIS000047	Canine degenerative myelopathy
+DIS000070	St. Elmo's fire
+DIS000181	Osmol gap
+DIS000356	Contagious caprine pleuropneumonia
+DIS000372	Equine infectious anemia
+DIS000379	Collie eye anomaly
+DIS000398	Hemorrhagic gastroenteritis
+DIS000441	Epizootic lymphangitis
+DIS000465	Proventricular dilatation disease
+DIS000510	Mutation
+DIS000512	Junctional epidermolysis bullosa (veterinary medicine)
+DIS000567	Gravity anomaly
+DIS000602	Newcastle disease
+DIS000627	Ehrlichiosis (canine)
+DIS000671	Southern corn leaf blight
+DIS000747	Black gill disease
+DIS000761	Sudden acquired retinal degeneration (disease)
+DIS000767	Coral bleaching
+DIS000805	Canine epileptoid cramping syndrome
+DIS000811	Caustic embrittlement
+DIS000853	Gastric dilatation volvulus
+DIS000991	Medical error
+DIS001053	Explosion
+DIS001115	Disease in ornamental fish
+DIS001122	Sticky-shed syndrome
+DIS001174	Bovine viral diarrhea
+DIS001335	Penicillium expansum
+DIS001356	Juvenile cellulitis
+DIS001376	Mammary tumor
+DIS001434	Jobless recovery
+DIS001438	Equine viral arteritis
+DIS001467	Canine distemper
+DIS001543	Generation effect
+DIS001594	Brown patch
+DIS001626	Otitis externa in animals
+DIS001688	Flea allergy dermatitis
+DIS001701	Broadcast radiation
+DIS001709	Samoyed hereditary glomerulopathy
+DIS001733	Equine influenza
+DIS001815	Impaction (animals)
+DIS001817	Surra
+DIS001825	Equine shivers
+DIS001851	United States military veteran suicide
+DIS001854	Head and lateral line erosion
+DIS001933	Mare reproductive loss syndrome
+DIS001977	Subprime mortgage crisis
+DIS002064	Phomopsis blight of juniper
+DIS002084	Lymphoid leucosis
+DIS002194	Infectious bovine keratoconjunctivitis
+DIS002283	User error
+DIS002325	Bovine malignant catarrhal fever
+DIS002408	Equine protozoal myeloencephalitis
+DIS002422	Binucleated cells
+DIS002541	Over illumination
+DIS002752	Elm yellows
+DIS002781	Corneal ulcers in animals
+DIS002886	Beet vascular necrosis
+DIS002892	Sexual orientation
+DIS002986	Canine leishmaniasis
+DIS003170	Traffic collision
+DIS003981	Luxating patella
+DIS004068	Asteroid hyalosis
+DIS004237	Zoonosis
+DIS005837	Distichia
+DIS006787	2009 flu pandemic
+DIS007025	GRIK4
+DIS007316	Dog bite
+DIS008171	Feline asthma
+DIS008199	Equine polysaccharide storage myopathy
+DIS008240	Histiocytoma (dog)
+DIS008260	Equine recurrent uveitis
+DIS008277	Fish acute toxicity syndrome
+DIS008289	Boron deficiency (plant disorder)
+DIS008321	Calcium deficiency (plant disorder)
+DIS008325	Animal trypanosomiasis
+DIS008327	Equine exertional rhabdomyolysis
+DIS008342	Iron deficiency (plant disorder)
+DIS008352	Northeast blackout of 1965
+DIS008354	Manganese deficiency (plant)
+DIS008367	Potomac Horse Fever
+DIS008372	Choke (horse)
+DIS008374	Fusarium ear blight
+DIS008379	Bovine spongiform encephalopathy
+DIS008396	Elbow dysplasia
+DIS008987	Venezuelan equine encephalitis
+DIS009010	Wobbly hedgehog syndrome
+DIS009012	Sudden acquired retinal degeneration syndrome
+DIS009017	Pyotraumatic dermatitis
+DIS009018	Potomac horse fever
+DIS010303	Necrotizing meningoencephalitis
+DIS010344	Lick granuloma
+DIS010388	2011 Germany E. coli O104:H4 outbreak
+DIS010620	Hypoadrenocorticism in dogs
+DIS010732	Saudi Arabia and weapons of mass destruction
+DIS010737	Rabies in Haiti
+DIS010785	Little League elbow
+DIS010817	1924 Los Angeles pneumonic plague outbreak
+DIS011029	Shark attack
+DIS011114	Primary mediastinal (thymic) large B cell lymphoma
+DIS011115	Brief resolved unexplained event
+DIS011116	Peroneal nerve paralysis
+DIS011117	Vaccine adverse event
+DIS011118	Odontogenic keratocyst
+DIS011119	Retroperitoneal bleeding
+DIS011120	Wilms's tumor
+DIS011121	Linburg–Comstock variation
+DIS011122	Tooth wear
+DIS011123	Adenomatoid odontogenic tumor
+DIS011124	Canalicular adenoma
+DIS011125	Delayed hemolytic transfusion reaction
+DIS011126	Dopamine-responsive dystonia
+DIS011127	Primary familial brain calcification
+DIS011128	Tuberculosis verrucosa cutis
+DIS011129	Ectopic kidney
+DIS011130	Lightheadedness
+DIS011131	Esophageal rupture
+DIS011132	Egg drop syndrome
+DIS011133	Gourmand syndrome
+DIS011134	Nasopalatine duct cyst
+DIS011135	Clonus
+DIS011136	Hypovolemic shock
+DIS011137	Goose bumps
+DIS011138	Albinism in humans
+DIS011139	Failure to thrive
+DIS011140	Hyperthermia
+DIS011141	Specific phobia
+DIS011142	Human orthopneumovirus
+DIS011143	Ketonuria
+DIS011144	Coronary vasospasm
+DIS011145	Confusion
+DIS011146	Weber's syndrome
+DIS011147	Fatigue
+DIS011148	Esophageal dysphagia
+DIS011149	Oropharyngeal dysphagia
+DIS011150	Niigata Minamata disease
+DIS011151	Cytomegalovirus
+DIS011152	BK virus
+DIS011153	Homonymous hemianopsia
+DIS011154	Melanosis
+DIS011155	Trance
+DIS011156	Tetrasomy 9p
+DIS011157	Pain
+DIS011158	Acidosis
+DIS011159	Overgeneral autobiographical memory
+DIS011160	Hürthle cell adenoma
+DIS011161	Achondroplasia in children
+DIS011162	Hepatolithiasis
+DIS011163	Chronic active EBV infection
+DIS011164	Eschar
+DIS011165	Potomania
+DIS011166	Glycogenic acanthosis
+DIS011167	Human betaherpesvirus 5
+DIS011169	Focal cortical dysplasia
+DIS011170	Plasma cell dyscrasias
+DIS011171	Megacystis (fetal)
+DIS011172	Condylar hypoplasia
+DIS011173	Spinal epidural hematoma
+DIS011174	Photosensitive epilepsy
+DIS011175	Anxiety
+DIS011176	Human parainfluenza viruses
+DIS011177	Pontiac fever
+DIS011178	Erythroid dysplasia
+DIS011179	Perifollicular mucinosis
+DIS011180	Korsakoff syndrome
+DIS011181	Tricho–rhino–phalangeal syndrome type 2
+DIS011182	Depression (mood)
+DIS011183	Harris platelet syndrome
+DIS011184	Dental fear
+DIS011185	Fear of children
+DIS011186	Psychological pain
+DIS011187	Complex post-traumatic stress disorder
+DIS011188	Post-acute-withdrawal syndrome
+DIS011189	Caffeinism
+DIS011190	Central hypoventilation syndrome
+DIS011191	Abdominal distension
+DIS011192	Globus pharyngis
+DIS011193	Chills
+DIS011194	Peripheral edema
+DIS011195	Dysdiadochokinesia
+DIS011196	Staphylococcus aureus
+DIS011197	Holiday heart syndrome
+DIS011198	Keshan disease
+DIS011199	List of cancer types
+DIS011200	Mydriasis
+DIS011201	Irritability
+DIS011202	Pseudoachondroplasia
+DIS011203	Vancomycin-resistant Staphylococcus aureus
+DIS011204	Saddle nose
+DIS011205	Health effects of pesticides
+DIS011206	Sinus bradycardia
+DIS011207	Rhonchi
+DIS011208	Bloating
+DIS011209	Tonsil carcinoma
+DIS011210	Metabolic Diseases
+DIS011211	Encephalitis, California
+DIS011212	Lymphohistiocytosis, Hemophagocytic
+DIS011213	Pneumonia, Aspiration
+DIS011214	Encephalitis, Tick-Borne
+DIS011215	Adenomatous Polyposis Coli
+DIS011216	Keratoderma, Palmoplantar, Diffuse
+DIS011217	Pemphigus, Benign Familial
+DIS011218	Insomnia, Fatal Familial
+DIS011219	Andersen Syndrome
+DIS011220	Glycogen Storage Disease Type IIb
+DIS011221	Usher Syndromes
+DIS011222	Lipodystrophy, Familial Partial
+DIS011223	Multiple Sulfatase Deficiency Disease
+DIS011224	Refsum Disease, Infantile
+DIS011225	Familial Hypophosphatemic Rickets
+DIS011226	Leukokeratosis, Hereditary Mucosal
+DIS011227	Leukemia, Myelomonocytic, Juvenile
+DIS011228	Antley-Bixler Syndrome Phenotype
+DIS011229	Exanthema
+DIS011230	Leukemia-Lymphoma, Adult T-Cell
+DIS011231	Inflammatory Bowel Diseases
+DIS011232	Schistosomiasis japonica
+DIS011233	Paranasal Sinus Neoplasms
+DIS011234	Endocardial Cushion Defects
+DIS011235	Neoplasms by Site
+DIS011236	Cardiomyopathies
+DIS011237	Pharyngeal Neoplasms
+DIS011238	Tobacco Use Disorder
+DIS011239	Lymphoma, Mantle-Cell
+DIS011240	Myotonic Disorders
+DIS011241	Multiple Sclerosis, Chronic Progressive
+DIS011242	Dystonia Musculorum Deformans
+DIS011243	Dystonic Disorders
+DIS011244	Sleep Apnea Syndromes
+DIS011245	Carcinoma, Squamous Cell
+DIS011246	Lymphoma, Follicular
+DIS011247	X-Linked Combined Immunodeficiency Diseases
+DIS011248	IgA Deficiency
+DIS011249	Lymphoma, T-Cell, Cutaneous
+DIS011250	Soft Tissue Neoplasms
+DIS011251	Spinal Muscular Atrophies of Childhood
+DIS011252	Bulbo-Spinal Atrophy, X-Linked
+DIS011253	Myoclonic Epilepsies, Progressive
+DIS011254	Colitis, Ischemic
+DIS011255	Colitis, Microscopic
+DIS011256	Colitis, Collagenous
+DIS011257	Colitis, Lymphocytic
+DIS011258	Enterocolitis, Pseudomembranous
+DIS011259	Crohn Disease
+DIS011260	Diffuse Cerebral Sclerosis of Schilder
+DIS011261	Blepharoptosis
+DIS011262	Gallbladder Diseases
+DIS011263	Hemoglobinuria, Paroxysmal
+DIS011264	Leukoplakia, Hairy
+DIS011265	Orofaciodigital Syndromes
+DIS011266	Leukemia, Promyelocytic, Acute
+DIS011267	Heart Arrest
+DIS011268	Hernia, Umbilical
+DIS011269	Meningomyelocele
+DIS011270	Pregnancy, Ectopic
+DIS011271	Angiomatosis, Bacillary
+DIS011272	Multiple Acyl Coenzyme A Dehydrogenase Deficiency
+DIS011273	Classical Lissencephalies and Subcortical Band Heterotopias
+DIS011274	Corneal Dystrophy, Juvenile Epithelial of Meesmann
+DIS011275	Zika Virus Infection
+DIS011276	Bland White Garland Syndrome
+DIS011277	Tuberculosis, Cardiovascular
+DIS011278	von Willebrand Disease, Type 1
+DIS011279	von Willebrand Disease, Type 2
+DIS011280	Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+DIS011281	Intracranial Arteriovenous Malformations
+DIS011282	Bone Diseases
+DIS011283	Keratitis, Dendritic
+DIS011284	Meningitis, Cryptococcal
+DIS011285	Candidiasis, Cutaneous
+DIS011286	Meningitis, Meningococcal
+DIS011287	Meningitis, Haemophilus
+DIS011288	Polycystic Kidney, Autosomal Dominant
+DIS011289	von Willebrand Disease, Type 3
+DIS011290	Hearing Loss, Central
+DIS011291	Duodenal Neoplasms
+DIS011292	Lung, Hyperlucent
+DIS011293	Trypanosomiasis, African
+DIS011294	Corneal Diseases
+DIS011295	Dry Eye Syndromes
+DIS011296	Intestinal Neoplasms
+DIS011297	Ileal Neoplasms
+DIS011298	Pinta
+DIS011299	Leprosy, Borderline
+DIS011300	Ocular Motility Disorders
+DIS011301	Leprosy, Tuberculoid
+DIS011302	Prostatic Neoplasms
+DIS011303	Paralyses, Familial Periodic
+DIS011304	Parotid Diseases
+DIS011305	Meningitis, Viral
+DIS011306	Caplan Syndrome
+DIS011307	Fibrocystic Breast Disease
+DIS011308	Leukemia, Lymphoid
+DIS011309	Brachial Plexus Neuritis
+DIS011310	Leukemia, Prolymphocytic
+DIS011311	Osteoarthropathy, Secondary Hypertrophic
+DIS011312	Bacterial Infections
+DIS011313	Leukemia, Lymphocytic, Chronic, B-Cell
+DIS011314	Hirschsprung Disease
+DIS011315	Anus, Imperforate
+DIS011316	Pneumonia, Viral
+DIS011317	Stomach Neoplasms
+DIS011318	Calcium Metabolism Disorders
+DIS011319	Leukodystrophy, Metachromatic
+DIS011320	Leukodystrophy, Globoid Cell
+DIS011321	Tuberculosis, Pleural
+DIS011322	Tic Disorders
+DIS011323	Sprue, Tropical
+DIS011324	Protein-Losing Enteropathies
+DIS011325	Microphthalmos
+DIS011326	Nephritis, Interstitial
+DIS011327	Alzheimer Disease
+DIS011328	Glaucoma, Open-Angle
+DIS011329	Hypertension, Renal
+DIS011330	Renal Insufficiency
+DIS011331	Hypertension, Portal
+DIS011332	Purpura, Thrombotic Thrombocytopenic
+DIS011333	Menopause, Premature
+DIS011334	Stomach Ulcer
+DIS011335	Sadism
+DIS011336	Hypertension, Malignant
+DIS011337	Encephalomyelitis, Eastern Equine
+DIS011338	Encephalomyelitis, Western Equine
+DIS011339	Encephalitis, Japanese
+DIS011340	Encephalitis, St. Louis
+DIS011341	Masochism
+DIS011342	Oculomotor Nerve Diseases
+DIS011343	Abducens Nerve Diseases
+DIS011344	Pleurodynia, Epidemic
+DIS011345	Leprosy, Lepromatous
+DIS011346	Spinal Dysraphism
+DIS011347	Tooth Diseases
+DIS011348	Anemia, Sickle Cell
+DIS011349	Compulsive Personality Disorder
+DIS011350	Disruptive, Impulse Control, and Conduct Disorders
+DIS011351	Attention Deficit Disorder with Hyperactivity
+DIS011352	Tongue Diseases
+DIS011353	Cholesteatoma, Middle Ear
+DIS011354	Nephrosis, Lipoid
+DIS011355	Glomerulonephritis, Membranous
+DIS011356	Erythroblastosis, Fetal
+DIS011357	Nephritis, Hereditary
+DIS011358	Leukoencephalitis, Acute Hemorrhagic
+DIS011359	Lens Diseases
+DIS011360	Ovarian Diseases
+DIS011361	Depersonalization
+DIS011362	Felty Syndrome
+DIS011363	Urinary Bladder Neoplasms
+DIS011364	Pasteurella Infections
+DIS011365	Bartonella Infections
+DIS011366	Rickettsiaceae Infections
+DIS011367	Purpura, Schoenlein-Henoch
+DIS011368	Bordetella Infections
+DIS011369	Condylomata Acuminata
+DIS011370	Parathyroid Diseases
+DIS011371	Hyperparathyroidism, Primary
+DIS011372	Conjunctivitis, Allergic
+DIS011373	Conjunctivitis, Acute Hemorrhagic
+DIS011374	Spondylarthropathies
+DIS011375	Appendiceal Neoplasms
+DIS011376	Anemia, Neonatal
+DIS011377	Typhus, Epidemic Louse-Borne
+DIS011378	Typhus, Endemic Flea-Borne
+DIS011379	Phobic Disorders
+DIS011380	Psychotic Disorders
+DIS011381	Fusobacterium Infections
+DIS011382	Pneumonia, Pneumocystis
+DIS011383	Scleral Diseases
+DIS011384	Urinary Bladder Calculi
+DIS011385	Empyema, Subdural
+DIS011386	Respiratory Distress Syndrome, Adult
+DIS011387	Heart Diseases
+DIS011388	Pyelonephritis, Xanthogranulomatous
+DIS011389	Corynebacterium Infections
+DIS011390	Pericarditis, Constrictive
+DIS011391	Diabetic Neuropathies
+DIS011392	Otitis Media, Suppurative
+DIS011393	Feeding and Eating Disorders of Childhood
+DIS011394	Tongue, Fissured
+DIS011395	Meningitis, Listeria
+DIS011396	Polyradiculopathy
+DIS011397	Dysautonomia, Familial
+DIS011398	Sweating, Gustatory
+DIS011399	Meningitis, Fungal
+DIS011400	Penile Neoplasms
+DIS011401	Pemphigoid, Benign Mucous Membrane
+DIS011402	Color Vision Defects
+DIS011403	Hyperlipidemias
+DIS011404	Heart Neoplasms
+DIS011405	Diabetes Mellitus, Lipoatrophic
+DIS011406	Diabetic Angiopathies
+DIS011407	Diabetes, Gestational
+DIS011408	Prediabetic State
+DIS011409	Muscular Dystrophy, Oculopharyngeal
+DIS011410	Distal Myopathies
+DIS011411	Glycogen Storage Disease Type VII
+DIS011412	Muscular Dystrophy, Duchenne
+DIS011413	Muscular Dystrophies, Limb-Girdle
+DIS011414	De Lange Syndrome
+DIS011415	Muscular Dystrophy, Emery-Dreifuss
+DIS011416	Muscular Dystrophy, Facioscapulohumeral
+DIS011417	Anemia, Hypochromic
+DIS011418	Bronchial Diseases
+DIS011419	Nystagmus, Pathologic
+DIS011420	Ureteral Neoplasms
+DIS011421	Myopia, Degenerative
+DIS011422	Blindness, Cortical
+DIS011423	Pick Disease of the Brain
+DIS011424	Stomatitis, Denture
+DIS011425	Mononeuropathies
+DIS011426	Vaginal Neoplasms
+DIS011427	Peripheral Nervous System Neoplasms
+DIS011428	Head and Neck Neoplasms
+DIS011429	Creutzfeldt-Jakob Syndrome
+DIS011430	Obesity, Morbid
+DIS011431	Cardiomyopathy, Hypertrophic
+DIS011432	Genital Neoplasms, Female
+DIS011433	Optic Neuropathy, Ischemic
+DIS011434	Ophthalmia, Sympathetic
+DIS011435	Vaginal Diseases
+DIS011436	Pica
+DIS011437	Hemophilia A
+DIS011438	Urinary Bladder, Neurogenic
+DIS011439	Meningitis, Aseptic
+DIS011440	Dengue
+DIS011441	Severe Dengue
+DIS011442	Elephantiasis, Filarial
+DIS011443	Lewy Body Disease
+DIS011444	Cartilage Diseases
+DIS011445	Liver Cirrhosis, Biliary
+DIS011446	beta-Thalassemia
+DIS011447	Hemorrhagic Fever, Crimean
+DIS011448	Schizophrenia, Paranoid
+DIS011449	Uveomeningoencephalitic Syndrome
+DIS011450	Jaundice, Chronic Idiopathic
+DIS011451	Corneal Dystrophies, Hereditary
+DIS011452	Infertility, Male
+DIS011453	Fetishism (Psychiatric)
+DIS011454	Graves Disease
+DIS011455	Muscular Atrophy, Spinal
+DIS011456	Epilepsy, Complex Partial
+DIS011457	Dysentery, Bacillary
+DIS011458	Diabetes Insipidus, Nephrogenic
+DIS011459	Diabetes Insipidus, Neurogenic
+DIS011460	Gambling
+DIS011461	Firesetting Behavior
+DIS011462	Anemia, Aplastic
+DIS011463	Vulvar Neoplasms
+DIS011464	Hyperparathyroidism, Secondary
+DIS011465	Blood Coagulation Disorders
+DIS011466	Vagus Nerve Diseases
+DIS011467	Bell Palsy
+DIS011468	Retinal Perforations
+DIS011469	von Willebrand Diseases
+DIS011470	Kidney Tubular Necrosis, Acute
+DIS011471	Ophthalmoplegia, Chronic Progressive External
+DIS011472	Uveitis, Posterior
+DIS011473	Pyloric Stenosis, Hypertrophic
+DIS011474	Vestibulocochlear Nerve Diseases
+DIS011475	Neuroma, Acoustic
+DIS011476	Quadriplegia
+DIS011477	Telangiectasia, Hereditary Hemorrhagic
+DIS011478	Chiari-Frommel Syndrome
+DIS011479	Hyaline Membrane Disease
+DIS011480	Intracranial Arteriosclerosis
+DIS011481	Osteochondrodysplasias
+DIS011482	Respiratory Syncytial Virus Infections
+DIS011483	Uveitis, Intermediate
+DIS011484	Choroid Neoplasms
+DIS011485	Mucopolysaccharidoses
+DIS011486	Mucopolysaccharidosis VII
+DIS011487	Rectal Diseases
+DIS011488	Huntington Disease
+DIS011489	Cardiovascular Diseases
+DIS011490	Neurodegenerative Diseases
+DIS011491	Submandibular Gland Diseases
+DIS011492	Mikulicz' Disease
+DIS011493	Sialometaplasia, Necrotizing
+DIS011494	Salivary Gland Calculi
+DIS011495	Screw Worm Infection
+DIS011496	Cardiomyopathy, Dilated
+DIS011497	Cardiomyopathy, Alcoholic
+DIS011498	Spherocytosis, Hereditary
+DIS011499	Malaria, Vivax
+DIS011500	Amnesia, Transient Global
+DIS011501	Mycetoma
+DIS011502	Leukomalacia, Periventricular
+DIS011503	Intracranial Arterial Diseases
+DIS011504	Retinal Artery Occlusion
+DIS011505	Vasospasm, Intracranial
+DIS011506	Glomerulosclerosis, Focal Segmental
+DIS011507	Uveitis, Suppurative
+DIS011508	Aspergillosis, Allergic Bronchopulmonary
+DIS011509	Diverticulosis, Esophageal
+DIS011510	Brain Neoplasms
+DIS011511	Goiter, Nodular
+DIS011512	Goiter, Endemic
+DIS011513	Goiter, Substernal
+DIS011514	Behcet Syndrome
+DIS011515	Diverticulitis, Colonic
+DIS011516	Porphyrias
+DIS011517	Coproporphyria, Hereditary
+DIS011518	Protoporphyria, Erythropoietic
+DIS011519	Porphyria, Erythropoietic
+DIS011520	Scheuermann Disease
+DIS011521	Toxoplasmosis, Congenital
+DIS011522	Chronobiology Disorders
+DIS011523	Mucocutaneous Lymph Node Syndrome
+DIS011524	Anemia, Dyserythropoietic, Congenital
+DIS011525	Anemia, Pernicious
+DIS011526	Anemia, Megaloblastic
+DIS011527	Anemia, Diamond-Blackfan
+DIS011528	Red-Cell Aplasia, Pure
+DIS011529	Sarcoidosis, Pulmonary
+DIS011530	Anemia, Hypoplastic, Congenital
+DIS011531	Treponemal Infections
+DIS011532	Jejunal Neoplasms
+DIS011533	Tongue, Hairy
+DIS011534	Paranasal Sinus Diseases
+DIS011535	Parkinson Disease, Secondary
+DIS011536	Glaucoma, Angle-Closure
+DIS011537	Fetofetal Transfusion
+DIS011538	Maxillary Sinus Neoplasms
+DIS011539	Cholestasis, Extrahepatic
+DIS011540	Foramen Ovale, Patent
+DIS011541	Campylobacter Infections
+DIS011542	Encephalomyelitis, Acute Disseminated
+DIS011543	Acquired Hyperostosis Syndrome
+DIS011544	Fluorosis, Dental
+DIS011545	Lacrimal Apparatus Diseases
+DIS011546	Addison Disease
+DIS011547	Endometrial Neoplasms
+DIS011548	Conjunctivitis, Inclusion
+DIS011549	Adenovirus Infections, Human
+DIS011550	Hyperlipidemia, Familial Combined
+DIS011551	Hyperlipoproteinemia Type II
+DIS011552	Hypoglossal Nerve Diseases
+DIS011553	Sweat Gland Diseases
+DIS011554	Ductus Arteriosus, Patent
+DIS011555	Trochlear Nerve Diseases
+DIS011556	Sexual Dysfunctions, Psychological
+DIS011557	Hypolipoproteinemias
+DIS011558	Polyneuropathies
+DIS011559	Hypobetalipoproteinemias
+DIS011560	Somatoform Disorders
+DIS011561	Gingivitis, Necrotizing Ulcerative
+DIS011562	Schistosomiasis haematobia
+DIS011563	Urinary Bladder Neck Obstruction
+DIS011564	Cystitis, Interstitial
+DIS011565	Esophagitis, Peptic
+DIS011566	Aortic Aneurysm, Thoracic
+DIS011567	Liver Cirrhosis, Alcoholic
+DIS011568	Polyendocrinopathies, Autoimmune
+DIS011569	Myasthenia Gravis, Neonatal
+DIS011570	Malaria, Falciparum
+DIS011571	Malaria, Cerebral
+DIS011572	Uveitis, Anterior
+DIS011573	Facial Nerve Diseases
+DIS011574	Shock, Septic
+DIS011575	Lipomatosis, Multiple Symmetrical
+DIS011576	Hyperlipoproteinemia Type I
+DIS011577	Choroid Diseases
+DIS011578	Acidosis, Renal Tubular
+DIS011579	Still's Disease, Adult-Onset
+DIS011580	Ureteral Diseases
+DIS011581	Candidiasis, Oral
+DIS011582	Epilepsy, Benign Neonatal
+DIS011583	Cholangitis, Sclerosing
+DIS011584	Osteoarthropathy, Primary Hypertrophic
+DIS011585	Arthropathy, Neurogenic
+DIS011586	Empyema, Tuberculous
+DIS011587	Parkinson Disease
+DIS011588	Parkinson Disease, Postencephalitic
+DIS011589	Thyroiditis, Suppurative
+DIS011590	Spinocerebellar Ataxias
+DIS011591	Dipetalonema Infections
+DIS011592	Glossopharyngeal Nerve Diseases
+DIS011593	Gonadal Dysgenesis, 46,XY
+DIS011594	Gonadal Dysgenesis, Mixed
+DIS011595	Gonadal Dysgenesis, 46,XX
+DIS011596	Paralysis, Hyperkalemic Periodic
+DIS011597	Brucellosis, Bovine
+DIS011598	Pemphigoid Gestationis
+DIS011599	Lipoid Proteinosis of Urbach and Wiethe
+DIS011600	Neuronal Ceroid-Lipofuscinoses
+DIS011601	Niemann-Pick Diseases
+DIS011602	Glossitis, Benign Migratory
+DIS011603	Optic Nerve Diseases
+DIS011604	Embolism, Cholesterol
+DIS011605	Galactosemias
+DIS011606	Depressive Disorder, Major
+DIS011607	Myopathies, Structural, Congenital
+DIS011608	Angioedemas, Hereditary
+DIS011609	Olivopontocerebellar Atrophies
+DIS011610	Ectodermal Dysplasia 1, Anhidrotic
+DIS011611	Gingival Diseases
+DIS011612	Mental Disorders
+DIS011613	Cecal Neoplasms
+DIS011614	Cecal Diseases
+DIS011615	Panniculitis, Nodular Nonsuppurative
+DIS011616	Pleural Diseases
+DIS011617	Mixed Tumor, Malignant
+DIS011618	Parathyroid Neoplasms
+DIS011619	Immune Complex Diseases
+DIS011620	Neurocognitive Disorders
+DIS011621	Dermatomycoses
+DIS011622	Mycoses
+DIS011623	Hydrocephalus, Normal Pressure
+DIS011624	Scleroderma, Limited
+DIS011625	Scleroderma, Diffuse
+DIS011626	Tuberculosis, Laryngeal
+DIS011627	Hypertension, Renovascular
+DIS011628	Depressive Disorder
+DIS011629	Depression
+DIS011630	Breast Neoplasms
+DIS011631	Breast Neoplasms, Male
+DIS011632	Neoplasms
+DIS011633	Papilloma, Intraductal
+DIS011634	Tuberculoma, Intracranial
+DIS011635	Tuberculosis, Osteoarticular
+DIS011636	Heart Septal Defects, Ventricular
+DIS011637	Supratentorial Neoplasms
+DIS011638	Neuroectodermal Tumor, Melanotic
+DIS011639	Heart Septal Defects
+DIS011640	Heart Defects, Congenital
+DIS011641	Glaucoma, Neovascular
+DIS011642	Ichthyosiform Erythroderma, Congenital
+DIS011643	Musculoskeletal Diseases
+DIS011644	Endocrine Gland Neoplasms
+DIS011645	Ichthyosis, X-Linked
+DIS011646	Steroid Metabolism, Inborn Errors
+DIS011647	Neuroectodermal Tumors
+DIS011648	Psychoses, Substance-Induced
+DIS011649	Vascular Neoplasms
+DIS011650	Megacolon, Toxic
+DIS011651	Thyroid Neoplasms
+DIS011652	Pituitary Neoplasms
+DIS011653	Pancreatic Neoplasms
+DIS011654	Carcinoma, Islet Cell
+DIS011655	Adenoma, Islet Cell
+DIS011656	Fibroma, Ossifying
+DIS011657	Carcinoma, Neuroendocrine
+DIS011658	Epilepsy, Absence
+DIS011659	Epilepsy, Generalized
+DIS011660	Menkes Kinky Hair Syndrome
+DIS011661	Bone Neoplasms
+DIS011662	Marijuana Abuse
+DIS011663	Cholestasis, Intrahepatic
+DIS011664	Jaw Neoplasms
+DIS011665	Skull Neoplasms
+DIS011666	Granuloma, Giant Cell
+DIS011667	Sexual Dysfunction, Physiological
+DIS011668	Heart Septal Defects, Atrial
+DIS011669	Hepatitis, Viral, Animal
+DIS011670	Sigmoid Neoplasms
+DIS011671	Sigmoid Diseases
+DIS011672	Histiocytoma, Malignant Fibrous
+DIS011673	Sex Cord-Gonadal Stromal Tumors
+DIS011674	Aortic Stenosis, Supravalvular
+DIS011675	Hypothalamic Diseases
+DIS011676	Dysostoses
+DIS011677	Trichomonas Infections
+DIS011678	Fallopian Tube Diseases
+DIS011679	Fallopian Tube Neoplasms
+DIS011680	Rectal Neoplasms
+DIS011681	Lutembacher Syndrome
+DIS011682	Giant Cell Tumors
+DIS011683	Neoplasms, Connective Tissue
+DIS011684	Exostoses
+DIS011685	Communication Disorders
+DIS011686	Rheumatic Diseases
+DIS011687	Chemical and Drug Induced Liver Injury, Chronic
+DIS011688	Hepatitis, Autoimmune
+DIS011689	Stress Disorders, Post-Traumatic
+DIS011690	Candidiasis, Chronic Mucocutaneous
+DIS011691	Vulvar Diseases
+DIS011692	Exostoses, Multiple Hereditary
+DIS011693	Tuberculosis, Urogenital
+DIS011694	Wilms Tumor
+DIS011695	Eyelid Neoplasms
+DIS011696	Eye Neoplasms
+DIS011697	Colonic Neoplasms
+DIS011698	Coagulation Protein Disorders
+DIS011699	Hemorrhagic Disorders
+DIS011700	Blood Coagulation Disorders, Inherited
+DIS011701	Blood Platelet Disorders
+DIS011702	Thrombasthenia
+DIS011703	Thrombocythemia, Essential
+DIS011704	Epilepsies, Partial
+DIS011705	Hypoprothrombinemias
+DIS011706	Afibrinogenemia
+DIS011707	Hepatitis, Chronic
+DIS011708	Ischemic Attack, Transient
+DIS011709	Uterine Cervical Diseases
+DIS011710	Candidiasis, Vulvovaginal
+DIS011711	Pharyngeal Diseases
+DIS011712	Gonadal Disorders
+DIS011713	Genital Diseases, Female
+DIS011714	Nocardia Infections
+DIS011715	Lung Diseases, Obstructive
+DIS011716	Mandibular Neoplasms
+DIS011717	Craniofacial Dysostosis
+DIS011718	Craniosynostoses
+DIS011719	Iron Metabolism Disorders
+DIS011720	Anemia, Myelophthisic
+DIS011721	Anemia, Macrocytic
+DIS011722	Postphlebitic Syndrome
+DIS011723	Neuroaxonal Dystrophies
+DIS011724	Gangliosidoses
+DIS011725	Elliptocytosis, Hereditary
+DIS011726	Multiple Sclerosis, Relapsing-Remitting
+DIS011727	Pupil Disorders
+DIS011728	Jaundice, Neonatal
+DIS011729	Ovarian Neoplasms
+DIS011730	Iris Diseases
+DIS011731	Hereditary Sensory and Motor Neuropathy
+DIS011732	Tracheal Neoplasms
+DIS011733	Spasms, Infantile
+DIS011734	Phosphorus Metabolism Disorders
+DIS011735	Hereditary Sensory and Autonomic Neuropathies
+DIS011736	Aortic Arch Syndromes
+DIS011737	Basal Cell Nevus Syndrome
+DIS011738	Carcinoma, Basal Cell
+DIS011739	Testicular Diseases
+DIS011740	Psychoses, Alcoholic
+DIS011741	Splenic Diseases
+DIS011742	Hematologic Neoplasms
+DIS011743	Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+DIS011744	Epilepsy, Reflex
+DIS011745	Vasculitis, Central Nervous System
+DIS011746	Polychondritis, Relapsing
+DIS011747	Opioid-Related Disorders
+DIS011748	Periapical Abscess
+DIS011749	Uterine Cervicitis
+DIS011750	Histiocytic Disorders, Malignant
+DIS011751	Chondrodysplasia Punctata, Rhizomelic
+DIS011752	Laryngeal Neoplasms
+DIS011753	Papilloma, Choroid Plexus
+DIS011754	Kidney Neoplasms
+DIS011755	Brenner Tumor
+DIS011756	Perivascular Epithelioid Cell Neoplasms
+DIS011757	Solitary Fibrous Tumor, Pleural
+DIS011758	Sweat Gland Neoplasms
+DIS011759	Carcinoma, Transitional Cell
+DIS011760	Synovitis, Pigmented Villonodular
+DIS011761	Hemangioma, Capillary
+DIS011762	Skin Diseases, Vesiculobullous
+DIS011763	Darier Disease
+DIS011764	Acro-Osteolysis
+DIS011765	Gilbert Disease
+DIS011766	Ear Diseases
+DIS011767	Glycogen Storage Disease Type VIII
+DIS011768	Dermatitis, Irritant
+DIS011769	Dermatitis, Contact
+DIS011770	Cerebellar Diseases
+DIS011771	Protozoan Infections
+DIS011772	Endocrine System Diseases
+DIS011773	Cranial Nerve Neoplasms
+DIS011774	Nose Diseases
+DIS011775	Leukemia, Hairy Cell
+DIS011776	Euthyroid Sick Syndromes
+DIS011777	Hemoglobinopathies
+DIS011778	Anemia, Hemolytic, Congenital Nonspherocytic
+DIS011779	Prostatic Hyperplasia
+DIS011780	Retrocochlear Diseases
+DIS011781	Mandibulofacial Dysostosis
+DIS011782	Immunoproliferative Disorders
+DIS011783	Glomerulonephritis, Membranoproliferative
+DIS011784	Klippel-Trenaunay-Weber Syndrome
+DIS011785	Labyrinth Diseases
+DIS011786	Tuberculosis, Pulmonary
+DIS011787	Trichothiodystrophy Syndromes
+DIS011788	Kidney Diseases, Cystic
+DIS011789	Carbohydrate Metabolism, Inborn Errors
+DIS011790	Glomerulonephritis, IGA
+DIS011791	Neoplasms, Germ Cell and Embryonal
+DIS011792	Testicular Neoplasms
+DIS011793	Carcinoma, Ductal
+DIS011794	Carcinoma, Ductal, Breast
+DIS011795	Substance-Related Disorders
+DIS011796	Carcinoma, Acinar Cell
+DIS011797	Adenocarcinoma, Mucinous
+DIS011798	Dermatitis, Allergic Contact
+DIS011799	Food Hypersensitivity
+DIS011800	Epilepsies, Myoclonic
+DIS011801	Lymphangioma, Cystic
+DIS011802	Lung Diseases, Interstitial
+DIS011803	Pulmonary Disease, Chronic Obstructive
+DIS011804	Neoplasms, Nerve Tissue
+DIS011805	Sarcoma, Small Cell
+DIS011806	T-Lymphocytopenia, Idiopathic CD4-Positive
+DIS011807	Cystadenocarcinoma, Papillary
+DIS011808	Adenocarcinoma, Papillary
+DIS011809	Carcinoma, Papillary
+DIS011810	Cystadenocarcinoma, Serous
+DIS011811	Digestive System Neoplasms
+DIS011812	Gallbladder Neoplasms
+DIS011813	Virulent Newcastle disease
+DIS011814	Bacterial wilt
+DIS011815	Soil acidification
+DIS011816	Phosphorus deficiency
+DIS011817	Laryngeal cleft
+DIS011818	Medication related osteonecrosis of the jaw (MRONJ)
+DIS011819	Pachydermoperiostosis
+DIS011820	Dermatofibroma
+DIS011821	Crankcase dilution
+DIS011822	Divergent evolution
+DIS011823	Tympanic membrane retraction
+DIS011824	Functional constipation
+DIS011825	Organic mental disorder
+DIS011826	Primary juvenile glaucoma
+DIS011827	Spherocytosis
+DIS011828	Ageusia
+DIS011829	Chronic inflation
+DIS011830	Börjeson–Forssman–Lehmann syndrome
+DIS011831	Intermetamorphosis
+DIS011832	Lung nodule
+DIS011833	Hypocorrection
+DIS011834	Ear eczema
+DIS011835	Inverse psoriasis
+DIS011836	Hangnail
+DIS011837	Prurigo simplex
+DIS011838	Sluggish cognitive tempo
+DIS011839	Immune thrombocytopenia (ITP)
+DIS011840	Parapneumonic effusion
+DIS011841	Hyperostosis frontalis interna
+DIS011842	Primary tumors of the heart
+DIS011843	Ulcer
+DIS011844	Mucinous carcinoma
+DIS011845	Marie Unna hereditary hypotrichosis
+DIS011846	Spleen
+DIS011847	Klebsiella pneumoniae
+DIS011848	Pierre Robin sequence
+DIS011849	Fat embolism syndrome
+DIS011850	Acropustulosis
+DIS011851	Osteoma
+DIS011852	Angioma serpiginosum
+DIS011853	Mucosal melanoma
+DIS011854	Papuloerythroderma of Ofuji
+DIS011855	Adenomyoepithelioma of the breast
+DIS011856	Mixed Müllerian tumor
+DIS011857	Shell shock
+DIS011858	Meconium
+DIS011859	Diploid triploid mosaic
+DIS011860	Pigmented spindle cell nevus
+DIS011861	Anotia
+DIS011862	Skin condition
+DIS011863	List of periodontal diseases
+DIS011864	Waterborne diseases
+DIS011865	Auricular hypertrichosis
+DIS011866	Steroid dementia syndrome
+DIS011867	Glycosuria
+DIS011868	Myofascial trigger point
+DIS011869	Spacing effect
+DIS011870	Complications of diabetes
+DIS011871	Diabetes and deafness
+DIS011872	Transient neonatal diabetes
+DIS011873	Permanent neonatal diabetes
+DIS011874	Pulmonic stenosis
+DIS011875	Microvasculitis
+DIS011876	Wellens' syndrome
+DIS011877	Topical steroid withdrawal
+DIS011878	Neonatal diabetes
+DIS011879	Low-functioning autism
+DIS011880	Polydipsia
+DIS011881	Hunner's ulcer
+DIS011882	Bad trip
+DIS011883	Manganese deficiency (medicine)
+DIS011884	Schizophasia
+DIS011885	Becker muscular dystrophy
+DIS011886	Gastric lymphoma
+DIS011887	Exertional rhabdomyolysis
+DIS011888	Acute aortic syndrome
+DIS011889	Febrile neutropenia
+DIS011890	Cullen's sign
+DIS011891	Dysbaric osteonecrosis
+DIS011892	Chronic relapsing inflammatory optic neuropathy
+DIS011893	Crepitus
+DIS011894	3-Hydroxy-3-methylglutaryl-CoA lyase deficiency
+DIS011895	Aphonia
+DIS011896	Eosinophilic granuloma
+DIS011897	Brugia malayi
+DIS011898	Bolivian hemorrhagic fever
+DIS011899	Amoebic brain abscess
+DIS011900	Epiphora (medicine)
+DIS011901	Bifascicular block
+DIS011902	Lightning injury
+DIS011903	Bronchophony
+DIS011904	Functional hypothalamic amenorrhea
+DIS011905	Dysgeusia
+DIS011906	Bertolotti's syndrome
+DIS011907	Bordetella bronchiseptica
+DIS011908	Gonadal tissue neoplasm
+DIS011909	Testicular pain
+DIS011910	Cancer-related fatigue
+DIS011911	Metaphyseal chondrodysplasia Schmid type
+DIS011912	Pseudofracture
+DIS011913	Intermittent rhythmic delta activity
+DIS011914	Cemento-osseous dysplasia
+DIS011915	Raymond-Céstan syndrome
+DIS011916	Hypoesthesia
+DIS011917	Polioencephalitis
+DIS011918	Lenz microphthalmia syndrome
+DIS011919	Vertebral osteomyelitis
+DIS011920	Steroid diabetes
+DIS011921	Parathyroidectomy
+DIS011922	Monothematic delusion
+DIS011923	Punctate inner choroiditis
+DIS011924	Mayfield classification
+DIS011925	Juxtaglomerular cell tumor
+DIS011926	Chronic testicular pain
+DIS011927	Reduplicative paramnesia
+DIS011928	Hysterectomy
+DIS011929	Phlegmasia cerulea dolens
+DIS011930	Refractory cytopenia of childhood
+DIS011931	Cramp
+DIS011932	Fasciculation
+DIS011933	Livedo
+DIS011934	Nematode infection
+DIS011935	Tooth discoloration
+DIS011936	Monosomy
+DIS011937	Pallor
+DIS011938	Parosmia
+DIS011939	Tracheoinnominate fistula
+DIS011940	Petechia
+DIS011941	Hemoptysis
+DIS011942	Night sweats
+DIS011943	Polyphagia
+DIS011944	Tetany
+DIS011945	Apnea
+DIS011946	Appendectomy
+DIS011947	Heart murmur
+DIS011948	Orofacial pain
+DIS011949	Hemolysis
+DIS011950	Yaba monkey tumor virus
+DIS011951	Piezogenic papules
+DIS011952	Root rot
+DIS011953	Flat wart
+DIS011954	Talaromycosis
+DIS011955	Stingray injury
+DIS011956	Deprescribing
+DIS011957	Coccyx fracture
+DIS011958	Heberden's node
+DIS011959	Emaciation
+DIS011960	Paradoxical reaction
+DIS011961	Musth
+DIS011962	Dogger Bank itch
+DIS011963	Alpha-1 antitrypsin deficiency
+DIS011964	Lower respiratory tract infection
+DIS011965	Cavitary pneumonia
+DIS011966	Nocturia
+DIS011967	Loeffler endocarditis
+DIS011968	Pastoral care
+DIS011969	Popliteal artery entrapment
+DIS011970	Skein (hash function)
+DIS011971	Sandwiches de miga
+DIS011972	Hypersegmented neutrophil
+DIS011973	Acrospiroma
+DIS011974	Vilsmeier–Haack reaction
+DIS011975	LGBT rights in Maryland
+DIS011976	Chromatin bridge
+DIS011977	Caesarean delivery on maternal request
+DIS011978	Grass tetany
+DIS011979	Ting Hai effect
+DIS011980	Duck plague
+DIS011981	Ink spot lentigo
+DIS011982	scrypt
+DIS011983	Pathophysiology of multiple sclerosis
+DIS011984	Gabriel synthesis
+DIS011985	Frank–Caro process
+DIS011986	Ahmed Mohamed clock incident
+DIS011987	Heredofamilial amyloidosis
+DIS011988	Energy density
+DIS011989	Primary cutaneous aspergillosis
+DIS011990	Primary cutaneous immunocytoma
+DIS011991	Flynn effect
+DIS011992	Interstitial granulomatous drug reaction
+DIS011993	von Braun reaction
+DIS011994	Black heel and palm
+DIS011995	Anelli
+DIS011996	Garre's sclerosing osteomyelitis
+DIS011997	Humidity
+DIS011998	Tycoon's cap
+DIS011999	Tebibit
+DIS012000	Localized granuloma annulare
+DIS012001	Centrofacial lentiginosis
+DIS012002	Skraup reaction
+DIS012003	Dakin oxidation
+DIS012004	Bronchogenic cyst
+DIS012005	Adenoma sebaceum
+DIS012006	Downstep
+DIS012007	Esophageal stent
+DIS012008	Mercury granuloma
+DIS012009	Desmoplastic melanoma
+DIS012010	Infectious pancreatic necrosis
+DIS012011	Influenza A virus subtype H1N1
+DIS012012	Oculomucocutaneous syndrome
+DIS012013	Clave (rhythm)
+DIS012014	Influenza A virus subtype H5N6
+DIS012015	Niementowski quinazoline synthesis
+DIS012016	Squash mosaic virus
+DIS012017	2005 Royal Air Force Hercules shootdown
+DIS012018	Influenza A virus subtype H1N2
+DIS012019	Gram-negative rosacea
+DIS012020	Kang cancer
+DIS012021	2011 eruption of Grímsvötn
+DIS012022	Sonogashira coupling
+DIS012023	Michaelis–Arbuzov reaction
+DIS012024	Iododerma
+DIS012025	Parathyroiditis
+DIS012026	Fritsch–Buttenberg–Wiechell rearrangement
+DIS012027	Ortner's syndrome
+DIS012028	Centrifugal abdominal lipodystrophy
+DIS012029	Traumatic calcinosis cutis
+DIS012030	Character amnesia
+DIS012031	Isthmicoma
+DIS012032	ERDL pattern
+DIS012033	Bowie knife
+DIS012034	Mahagauri
+DIS012035	Quadrichrome vitiligo
+DIS012036	Ugi reaction
+DIS012037	Webbed penis
+DIS012038	Ape hand deformity
+DIS012039	Visual literacy
+DIS012040	Appel reaction
+DIS012041	Riehl melanosis
+DIS012042	SK 48
+DIS012043	Solid pseudopapillary tumour
+DIS012044	Ethereal filcher
+DIS012045	Picardy sweat
+DIS012046	Rubottom oxidation
+DIS012047	Ruoutevare mine
+DIS012048	Neonatal acne
+DIS012049	Influenza A virus subtype H5N2
+DIS012050	Pebibit
+DIS012051	Corey–Itsuno reduction
+DIS012052	Kemerovo tickborne viral fever
+DIS012053	Scholl reaction
+DIS012054	Secondary cutaneous CD30+ large-cell lymphoma
+DIS012055	Sandmeyer reaction
+DIS012056	Primary cutaneous marginal zone lymphoma
+DIS012057	Karmanos Cancer Institute
+DIS012058	Box (juggling)
+DIS012059	Sister Princess: Nijūnin no Tenshitachi
+DIS012060	SACRAL syndrome
+DIS012061	Hair follicle nevus
+DIS012062	Transient erythroporphyria of infancy
+DIS012063	Keratosis pharyngis
+DIS012064	Jembrana disease
+DIS012065	Cascade (juggling)
+DIS012066	Orthostatic purpura
+DIS012067	The Wheel of Life
+DIS012068	Pattern 1861 Enfield musketoon
+DIS012069	Paroxysmal hypertension
+DIS012070	Connecticut Repertory Theatre
+DIS012071	Soybean rust
+DIS012072	Peat fire cancer
+DIS012073	1999 Myanmar Embassy siege
+DIS012074	Frailty syndrome
+DIS012075	African histoplasmosis
+DIS012076	Volt (Dungeons & Dragons)
+DIS012077	Chilote School of Religious Imagery
+DIS012078	Hemetsberger indole synthesis
+DIS012079	Partial unilateral lentiginosis
+DIS012080	Carbon stain
+DIS012081	Chicago Union Stock Yards fire
+DIS012082	Acne with facial edema
+DIS012083	Penamaluru
+DIS012084	TM 1517
+DIS012085	Xanthoma diabeticorum
+DIS012086	Bouveault–Blanc reduction
+DIS012087	Robinson annulation
+DIS012088	Lakshmi Narayan
+DIS012089	Primary cutaneous histoplasmosis
+DIS012090	Atypical hyperplasia
+DIS012091	Hopkins syndrome
+DIS012092	MARPAT
+DIS012093	Dystrophic calcinosis cutis
+DIS012094	Mount Minsi
+DIS012095	Bergman cyclization
+DIS012096	Choker (Dungeons & Dragons)
+DIS012097	Valhalla (video game)
+DIS012098	Monochromacy
+DIS012099	Betti reaction
+DIS012100	Perkin reaction
+DIS012101	Metastatic calcinosis cutis
+DIS012102	Wittig reaction
+DIS012103	Kallak mine
+DIS012104	Transvestic fetishism
+DIS012105	Drug-induced purpura
+DIS012106	Mitsunobu reaction
+DIS012107	LGBT rights in Connecticut
+DIS012108	Powdery scab
+DIS012109	Clear cell papillary renal cell carcinoma
+DIS012110	Life is a Problem
+DIS012111	Holdsworth fracture
+DIS012112	Fischer–Hepp rearrangement
+DIS012113	Tripe palms
+DIS012114	Bargellini reaction
+DIS012115	Hunsdiecker reaction
+DIS012116	Solar erythema
+DIS012117	Influenza A virus subtype H7N3
+DIS012118	Willow Island disaster
+DIS012119	ACR score
+DIS012120	Bischler–Möhlau indole synthesis
+DIS012121	Nenitzescu indole synthesis
+DIS012122	Wanderlust
+DIS012123	Volcanic lightning
+DIS012124	Lennert lymphoma
+DIS012125	Cro-Magnon rock shelter
+DIS012126	Influenza A virus subtype H10N7
+DIS012127	Chuul
+DIS012128	Influenza A virus subtype H2N3
+DIS012129	Acne mechanica
+DIS012130	Progressive nodular histiocytosis
+DIS012131	Pobiti Kamani
+DIS012132	Glomangiosarcoma
+DIS012133	Influenza A virus subtype H3N2
+DIS012134	Wind turbine syndrome
+DIS012135	False memory
+DIS012136	Geriatric trauma
+DIS012137	ILBM
+DIS012138	EOC 10 inch 40 caliber
+DIS012139	Pneumosinus dilatans
+DIS012140	Fracture blister
+DIS012141	Universal Camouflage Pattern
+DIS012142	Obstructive purpura
+DIS012143	Coin problem
+DIS012144	Kangri ulcer
+DIS012145	Gattermann reaction
+DIS012146	Dermabrasion
+DIS012147	Fezouata Formation
+DIS012148	Pancreas transplantation
+DIS012149	Gronchi Rosa
+DIS012150	Kibibit
+DIS012151	Blueberry shoestring virus
+DIS012152	Blaise reaction
+DIS012153	Beryllium granuloma
+DIS012154	Heavy legs
+DIS012155	Blue balls
+DIS012156	Grøstl
+DIS012157	Yellowhead disease
+DIS012158	Pemphigoid nodularis
+DIS012159	Sexual anorexia
+DIS012160	Smith Martin Dodd syndrome
+DIS012161	Australian gold rushes
+DIS012162	Influenza A virus subtype H7N7
+DIS012163	Micronutrient deficiency
+DIS012164	Eosinophilic cystitis
+DIS012165	Benign neonatal hemangiomatosis
+DIS012166	Placental villous immaturity
+DIS012167	Sclerosing lymphangitis
+DIS012168	Meningioangiomatosis
+DIS012169	Upjohn dihydroxylation
+DIS012170	Rhodesian Brushstroke
+DIS012171	Sudden unexpected death in epilepsy
+DIS012172	Normolipoproteinemic xanthomatosis
+DIS012173	Traumatic purpura
+DIS012174	Krapcho decarboxylation
+DIS012175	Lipoatrophia annularis
+DIS012176	Tourism in Chicago
+DIS012177	U.S. Woodland
+DIS012178	Galen Partners
+DIS012179	Yax Lizard
+DIS012180	Voltage
+DIS012181	Paternò–Büchi reaction
+DIS012182	Perifollicular fibroma
+DIS012183	Minisci reaction
+DIS012184	Twin anemia-polycythemia sequence
+DIS012185	Transplant glomerulopathy
+DIS012186	Coal ball
+DIS012187	Doege–Potter syndrome
+DIS012188	Italian Renaissance
+DIS012189	Summer of Love
+DIS012190	SMASH (hash)
+DIS012191	Táchira helicopter crash
+DIS012192	Claisen rearrangement
+DIS012193	Irlen syndrome
+DIS012194	SHA-3
+DIS012195	Pleomorphic T-cell lymphoma
+DIS012196	Inflammatory fibroid polyp
+DIS012197	Pseudoverrucous papules and nodules
+DIS012198	Raspberry leaf spot
+DIS012199	Low-grade fibromyxoid sarcoma
+DIS012200	October Revolution
+DIS012201	World Series Cricket
+DIS012202	Bullous lymphedema
+DIS012203	Secondary systemic amyloidosis
+DIS012204	Guardian Australia
+DIS012205	Eutypella parasitica
+DIS012206	Pneumonolysis
+DIS012207	Gewald reaction
+DIS012208	Petabit
+DIS012209	Phytophthora rubi
+DIS012210	Catoblepas (Dungeons & Dragons)
+DIS012211	Citrus stubborn disease
+DIS012212	Qassim building collapse
+DIS012213	Athach
+DIS012214	Basketball at the 1960 Summer Olympics
+DIS012215	Chronic deciduitis
+DIS012216	Kidney transplantation
+DIS012217	SHA-1
+DIS012218	Spondweni fever
+DIS012219	Postoperative residual curarization
+DIS012220	Swern oxidation
+DIS012221	Verticillium wilt
+DIS012222	Lumpy skin disease
+DIS012223	Papular eruption of blacks
+DIS012224	Hammick reaction
+DIS012225	Progressive disseminated histoplasmosis
+DIS012226	2003 Wimbledon Championships – Women's Singles
+DIS012227	Nef reaction
+DIS012228	M84 camouflage pattern
+DIS012229	Influenza A virus subtype H2N2
+DIS012230	Benign paroxysmal vertigo of childhood
+DIS012231	Weinreb ketone synthesis
+DIS012232	Xanthomatous biliary cirrhosis
+DIS012233	Jones oxidation
+DIS012234	Leontiasis ossea
+DIS012235	Olefin metathesis
+DIS012236	Variola caprina
+DIS012237	Megabit
+DIS012238	Selam (Australopithecus)
+DIS012239	Bucherer carbazole synthesis
+DIS012240	Milas hydroxylation
+DIS012241	Hofmann–Löffler reaction
+DIS012242	2011 Nabro eruption
+DIS012243	Crabtree Hot Springs, California
+DIS012244	Lacquer dermatitis
+DIS012245	Multi-Terrain Pattern
+DIS012246	Rhinovirus
+DIS012247	Patch-type granuloma annulare
+DIS012248	Reticulohistiocytoma
+DIS012249	Dag Hammarskjöld invert
+DIS012250	Drug-eluting stent
+DIS012251	Subacute myelo-optic neuropathy
+DIS012252	Leibermuster
+DIS012253	1,3-Dipolar cycloaddition
+DIS012254	Fraley syndrome
+DIS012255	Herbal Magic
+DIS012256	Perforating folliculitis
+DIS012257	McMurry reaction
+DIS012258	Reticulohistiocytosis
+DIS012259	Eparchaean Unconformity
+DIS012260	Polymorphous low-grade adenocarcinoma
+DIS012261	Glomerulonephrosis
+DIS012262	Van Leusen reaction
+DIS012263	Apple scab
+DIS012264	Provisional Constitutional Order
+DIS012265	Xanthoma striatum palmare
+DIS012266	Uranium dermatosis
+DIS012267	Diversion colitis
+DIS012268	Lichen spinulosus
+DIS012269	Take-all
+DIS012270	Pseudorabies
+DIS012271	Kolbe–Schmitt reaction
+DIS012272	Dilation and evacuation
+DIS012273	Polycoria
+DIS012274	2011 Puyehue-Cordón Caulle eruption
+DIS012275	Nodular lichen myxedematosus
+DIS012276	Psittacine beak and feather disease
+DIS012277	Qualitrol
+DIS012278	Dilated pore
+DIS012279	Postinflammatory lymphedema
+DIS012280	Abelin reaction
+DIS012281	African blackwood dermatitis
+DIS012282	Language
+DIS012283	Cyanohydrin reaction
+DIS012284	Women in Azerbaijan
+DIS012285	Periorbital dermatitis
+DIS012286	Ullrich disease
+DIS012287	Blanc chloromethylation
+DIS012288	Tiger (hash function)
+DIS012289	Epithelioid cell histiocytoma
+DIS012290	Albert Touraine
+DIS012291	Silicone granuloma
+DIS012292	Myxoid cyst
+DIS012293	Influenza A virus subtype H9N2
+DIS012294	Collagenous spherulosis
+DIS012295	Yottabit
+DIS012296	China at the 1984 Summer Olympics
+DIS012297	Cannizzaro reaction
+DIS012298	Dengue virus
+DIS012299	Anatolia
+DIS012300	Medication-induced hyperlipoproteinemia
+DIS012301	Powder Alarm
+DIS012302	Secondary cutaneous amyloidosis
+DIS012303	Acantholytic dyskeratotic epidermal nevus
+DIS012304	Simmons–Smith reaction
+DIS012305	Wo Shing Wo
+DIS012306	Work-related musculoskeletal disorders
+DIS012307	Alvarez' syndrome
+DIS012308	Bartoli indole synthesis
+DIS012309	Female hysteria
+DIS012310	Hoesch reaction
+DIS012311	Influenza A virus subtype H7N1
+DIS012312	Flexion teardrop fracture
+DIS012313	Fibrinogenolysis
+DIS012314	Disability
+DIS012315	Wriggler (video game)
+DIS012316	Chrysiasis
+DIS012317	LGBT rights in Massachusetts
+DIS012318	Dornier-Zeppelin D.I
+DIS012319	Knoevenagel condensation
+DIS012320	Acute oak decline
+DIS012321	Noma neonatorum
+DIS012322	Venous stasis
+DIS012323	Sum activity of peripheral deiodinases
+DIS012324	Sarett oxidation
+DIS012325	Henry reaction
+DIS012326	Iatrogenic calcinosis cutis
+DIS012327	Meniscus transplant
+DIS012328	Sharpless epoxidation
+DIS012329	Urech hydantoin synthesis
+DIS012330	Acne medicamentosa
+DIS012331	Pilar sheath acanthoma
+DIS012332	Devil's Footprints
+DIS012333	Index of Advanced Dungeons & Dragons 1st edition monsters
+DIS012334	Noyori asymmetric hydrogenation
+DIS012335	Streebog
+DIS012336	Shaoguan incident
+DIS012337	Blaise ketone synthesis
+DIS012338	Kairo cancer
+DIS012339	Bischler–Napieralski reaction
+DIS012340	Diels–Alder reaction
+DIS012341	Tripurantaka
+DIS012342	Influenza A virus subtype H7N2
+DIS012343	Porotic hyperostosis
+DIS012344	Bifid penis
+DIS012345	Lymantria dispar multicapsid nuclear polyhedrosis virus
+DIS012346	Sertoli cell nodule
+DIS012347	Exbibit
+DIS012348	Woodilee Village
+DIS012349	Biliary pseudolithiasis
+DIS012350	Corectopia
+DIS012351	Adler 2.5-litre
+DIS012352	Glomerulocystic kidney disease
+DIS012353	Acid–base reaction
+DIS012354	Hemorrhagic infarct
+DIS012355	Low pressure hydrocephalus
+DIS012356	Reverse tolerance
+DIS012357	Barley yellow dwarf
+DIS012358	Fruta del Norte mine
+DIS012359	Papular xanthoma
+DIS012360	Clay-shoveler fracture
+DIS012361	Larock indole synthesis
+DIS012362	KNM-ER 1813
+DIS012363	Chondrodermatitis nodularis chronica helicis
+DIS012364	Mucosal lentigines
+DIS012365	Kilobit
+DIS012366	Paroxysmal hand hematoma
+DIS012367	2010 in film
+DIS012368	Histoid leprosy
+DIS012369	Paid in Blood
+DIS012370	Yobibit
+DIS012371	Pictet–Spengler reaction
+DIS012372	Leaky gut syndrome
+DIS012373	Blood pressure
+DIS012374	Meerwein arylation
+DIS012375	Bouveault aldehyde synthesis
+DIS012376	Graham-Little syndrome
+DIS012377	Heck reaction
+DIS012378	Photosensitivity with HIV infection
+DIS012379	Influenza A virus subtype H7N4
+DIS012380	Grick
+DIS012381	Basketball at the 1956 Summer Olympics
+DIS012382	Wurtz reaction
+DIS012383	Sakurai reaction
+DIS012384	Mass psychogenic illness
+DIS012385	Ong Keo
+DIS012386	Influenza A virus
+DIS012387	Spermaturia
+DIS012388	Una virus
+DIS012389	Haglund's syndrome
+DIS012390	Isolated congenital asplenia
+DIS012391	Ritter reaction
+DIS012392	Non-mycosis fungoides CD30− cutaneous large T-cell lymphoma
+DIS012393	Narcotic dermopathy
+DIS012394	Zebibit
+DIS012395	Oak wilt
+DIS012396	Hypertrichosis simplex of the scalp
+DIS012397	OH 24
+DIS012398	MD4
+DIS012399	Influenza A virus subtype H5N3
+DIS012400	Exabit
+DIS012401	Idiopathic facial aseptic granuloma
+DIS012402	MD2 (hash function)
+DIS012403	Purpuric agave dermatitis
+DIS012404	Pylephlebitis
+DIS012405	Third Taiwan Strait Crisis
+DIS012406	Follicular hybrid cyst
+DIS012407	Microphone gaffe
+DIS012408	Boyland–Sims oxidation
+DIS012409	Dissociated sensory loss
+DIS012410	Non-X histiocytosis
+DIS012411	Nineteenth Dynasty of Egypt
+DIS012412	Scottish hip hop
+DIS012413	MicroTonic
+DIS012414	Basketball at the 1948 Summer Olympics
+DIS012415	Atypical polypoid adenomyoma
+DIS012416	Influenza A virus subtype H3N1
+DIS012417	Cutaneous lymphoma
+DIS012418	Heart valve dysplasia
+DIS012419	Greater India
+DIS012420	New South Wales State Emergency Service
+DIS012421	bcrypt
+DIS012422	STS 71
+DIS012423	Grain itch
+DIS012424	X-type histiocytosis
+DIS012425	Gnathophyma
+DIS012426	Zincke nitration
+DIS012427	Botryosphaeria corticola
+DIS012428	Diheterospora zeaspora
+DIS012429	Eschweiler–Clarke reaction
+DIS012430	Paleodictyon
+DIS012431	Polyembryoma
+DIS012432	Letts nitrile synthesis
+DIS012433	Passerini reaction
+DIS012434	Whirlpool (hash function)
+DIS012435	Pfitzinger reaction
+DIS012436	Arrhythmogenic cardiomyopathy
+DIS012437	Prurigo pigmentosa
+DIS012438	Intravascular papillary endothelial hyperplasia
+DIS012439	Annular pustular psoriasis
+DIS012440	Abortion
+DIS012441	Eccrine nevus
+DIS012442	Malignant pilomatricoma
+DIS012443	Trichilemmal carcinoma
+DIS012444	Trichodiscoma
+DIS012445	Apocrine nevus
+DIS012446	Senile pruritus
+DIS012447	Leech
+DIS012448	Ross' syndrome
+DIS012449	Pseudomelanoma
+DIS012450	Pili bifurcati
+DIS012451	Chronic hallucinatory psychosis
+DIS012452	Superficial pustular folliculitis
+DIS012453	Tar acne
+DIS012454	Factitial lymphedema
+DIS012455	Syringofibroadenoma
+DIS012456	Psoriatic erythroderma
+DIS012457	Occupational acne
+DIS012458	Pressure urticaria
+DIS012459	Oil acne
+DIS012460	Racquet nail
+DIS012461	Uremic pruritus
+DIS012462	Drug-induced pruritus
+DIS012463	Chlamydia
+DIS012464	Perianal cellulitis
+DIS012465	Trichorrhexis invaginata
+DIS012466	Follicular atrophoderma
+DIS012467	Trichilemmoma
+DIS012468	Giant solitary trichoepithelioma
+DIS012469	Trichoadenoma
+DIS012470	Dermatosis papulosa nigra
+DIS012471	Breast eczema
+DIS012472	Splenic tumor
+DIS012473	Periorbital hyperpigmentation
+DIS012474	Balloon cell nevus
+DIS012475	Cestoda
+DIS012476	Biliary pruritus
+DIS012477	Cylindroma
+DIS012478	Borderline tuberculoid leprosy
+DIS012479	Borderline lepromatous leprosy
+DIS012480	Cutaneous perforating disorders
+DIS012481	Trichoblastoma
+DIS012482	Subcutaneous fat necrosis of the newborn
+DIS012483	Gram-negative folliculitis
+DIS012484	Carbonated soda treatment of phytobezoars
+DIS012485	Acanthoma fissuratum
+DIS012486	Telangiectasia macularis eruptiva perstans
+DIS012487	Tuberculous gumma
+DIS012488	External compression headache
+DIS012489	Reticular erythematous mucinosis
+DIS012490	Streptococcal intertrigo
+DIS012491	Xanthoma disseminatum
+DIS012492	Woolly hair nevus
+DIS012493	Sulzberger–Garbe syndrome
+DIS012494	Tropical acne
+DIS012495	Self-healing juvenile cutaneous mucinosis
+DIS012496	Paravaccinia virus
+DIS012497	Bipartite patella
+DIS012498	Cold-stimulus headache
+DIS012499	Infantile acne
+DIS012500	Irregular menstruation
+DIS012501	Skin manifestations of sarcoidosis
+DIS012502	Severe congenital neutropenia
+DIS012503	Honda Point disaster
+DIS012504	Clubroot
+DIS012505	Water memory
+DIS012506	Birch reduction
+DIS012507	Management of multiple sclerosis
+DIS012508	Mesomelia
+DIS012509	Slime flux
+DIS012510	Pastry War
+DIS012511	Esca (grape disease)
+DIS012512	1898 City of Wellington by-election
+DIS012513	Stille reaction
+DIS012514	Tornwaldt cyst
+DIS012515	Rehabilitation (neuropsychology)
+DIS012516	Barton decarboxylation
+DIS012517	Neutrophilic lobular panniculitis
+DIS012518	Horner–Wadsworth–Emmons reaction
+DIS012519	Numa Numa (video)
+DIS012520	Fusebox Funk
+DIS012521	Perforating calcific elastosis
+DIS012522	Electric potential
+DIS012523	Asbestos-related diseases
+DIS012524	Epithelioma
+DIS012525	Neuropathia mucinosa cutanea
+DIS012526	Two-point discrimination
+DIS012527	Rectal bleeding
+DIS012528	Bladder augmentation
+DIS012529	Sugarcane smut
+DIS012530	Battle of Garisi
+DIS012531	David After Dentist
+DIS012532	Vasitis nodosa
+DIS012533	Chronic vesiculobullous hand eczema
+DIS012534	Pork rind
+DIS012535	Baltic Fleet
+DIS012536	Postinflammatory hypopigmentation
+DIS012537	Traumatic alopecia
+DIS012538	Plasmoacanthoma
+DIS012539	Bayoud disease
+DIS012540	Hyperdynamic precordium
+DIS012541	Killafornia
+DIS012542	Stetter reaction
+DIS012543	Buchwald–Hartwig amination
+DIS012544	Gigabit
+DIS012545	Tiffeneau–Demjanov rearrangement
+DIS012546	SAHA syndrome
+DIS012547	Lipoblastomatosis
+DIS012548	Bullous small vessel vasculitis
+DIS012549	Pauci-immune
+DIS012550	Sadistic personality disorder
+DIS012551	Vaishno Devi
+DIS012552	1967 Detroit riot
+DIS012553	Fukuyama coupling
+DIS012554	Baden 9 Kreuzer error
+DIS012555	Paralytic shellfish poisoning
+DIS012556	Pseudopolyps
+DIS012557	Transient neonatal pustular melanosis
+DIS012558	Diabetic cheiroarthropathy
+DIS012559	BE (Pain of Salvation album)
+DIS012560	Polymelia
+DIS012561	Tumid lupus erythematosus
+DIS012562	Nevoid hypertrichosis
+DIS012563	Sino-Soviet split
+DIS012564	Palisaded neutrophilic and granulomatous dermatitis
+DIS012565	Acral nevus
+DIS012566	Dieckmann condensation
+DIS012567	Cryptographic hash function
+DIS012568	Ocular melanosis
+DIS012569	Nutritional deficiency eczema
+DIS012570	Hiyama coupling
+DIS012571	Reimer–Tiemann reaction
+DIS012572	Parkinson's Foundation
+DIS012573	Atypical pulmonary carcinoid tumour
+DIS012574	Erysipeloid of Rosenbach
+DIS012575	Fort Darnet
+DIS012576	Majeed syndrome
+DIS012577	Pramada (Indian philosophy)
+DIS012578	Spindle cell lipoma
+DIS012579	Kröhnke pyridine synthesis
+DIS012580	Prurigo gestationis
+DIS012581	Lymphoepithelioma
+DIS012582	Battle of Seacroft Moor
+DIS012583	Basketball at the 1936 Summer Olympics
+DIS012584	Cherry leaf spot
+DIS012585	Particle size
+DIS012586	Green nail syndrome
+DIS012587	Tumoral calcinosis
+DIS012588	Aberdeen Regional Hospital
+DIS012589	1963 Syrian coup d'état
+DIS012590	Wolff rearrangement
+DIS012591	Konghanzheng
+DIS012592	SANDstorm hash
+DIS012593	Apocrine gland carcinoma
+DIS012594	Polychaete
+DIS012595	ALPSA lesion
+DIS012596	Adam & Yves
+DIS012597	Synucleinopathy
+DIS012598	Asexuality
+DIS012599	Maternal autoimmune bullous disease
+DIS012600	Butt rot
+DIS012601	Localized pustular psoriasis
+DIS012602	Butcher's wart
+DIS012603	Rust (fungus)
+DIS012604	Hydroxyethyl starch-induced pruritus
+DIS012605	Denasalization
+DIS012606	Hereditary diffuse gastric cancer
+DIS012607	Cutaneous sinus of dental origin
+DIS012608	Coup of 18 Fructidor
+DIS012609	1858 Bradford sweets poisoning
+DIS012610	East–West Schism
+DIS012611	Tar melanosis
+DIS012612	Feist–Benary synthesis
+DIS012613	Macrovascular disease
+DIS012614	Adult blaschkitis
+DIS012615	Drug-induced urticaria
+DIS012616	Sebaceoma
+DIS012617	Free will
+DIS012618	Lycoming IO-720
+DIS012619	Grapevine yellows
+DIS012620	Nodulosis–arthropathy–osteolysis syndrome
+DIS012621	Ulcerative dermatitis
+DIS012622	Normophosphatemic familial tumoral calcinosis
+DIS012623	Dermatitis repens
+DIS012624	Winter solstice
+DIS012625	Taung Child
+DIS012626	Sinclair Scientific
+DIS012627	Nierenstein reaction
+DIS012628	Lurker (Dungeons & Dragons)
+DIS012629	Sharpless asymmetric dihydroxylation
+DIS012630	Kata
+DIS012631	Pinnick oxidation
+DIS012632	Aluminium toxicity in people on dialysis
+DIS012633	Terry's nails
+DIS012634	Immortality
+DIS012635	Race and ethnicity in the United States Census
+DIS012636	Autoimmune estrogen dermatitis
+DIS012637	Lactational amenorrhea
+DIS012638	Pinnaroo railway line, Victoria
+DIS012639	Aster yellows
+DIS012640	Reformatsky reaction
+DIS012641	Powdery mildew
+DIS012642	Mortimer's disease
+DIS012643	CIA invert
+DIS012644	Immune reconstitution inflammatory syndrome
+DIS012645	Waldenström hyperglobulinemic purpura
+DIS012646	Simon, Simon
+DIS012647	Preiser disease
+DIS012648	Board foot
+DIS012649	Dactylitis
+DIS012650	Albanian revolt of 1910
+DIS012651	Service-oriented architecture
+DIS012652	Shawl scrotum
+DIS012653	Silence Is Betrayal
+DIS012654	Hori's nevus
+DIS012655	5.5 Metre (keelboat)
+DIS012656	Head and neck squamous-cell carcinoma
+DIS012657	Biginelli reaction
+DIS012658	Juan Dominguez (lawyer)
+DIS012659	Skum (Dungeons & Dragons)
+DIS012660	Pneumococcal pneumonia
+DIS012661	Belgium at the 1908 Summer Olympics
+DIS012662	Operation Kipion
+DIS012663	Giant condyloma acuminatum
+DIS012664	Churches of Chiloé
+DIS012665	Fall line
+DIS012666	Athabasca oil sands
+DIS012667	Myeloma cast nephropathy
+DIS012668	Minoan eruption
+DIS012669	Drag crisis
+DIS012670	Flanging
+DIS012671	Chondroid lipoma
+DIS012672	Trumpeter's wart
+DIS012673	Secretan's syndrome
+DIS012674	Orange/Newark Tornadoes
+DIS012675	Traumatic anserine folliculosis
+DIS012676	Chromatic aberration
+DIS012677	Kumada coupling
+DIS012678	Cerebellar abiotrophy
+DIS012679	Be (video)
+DIS012680	Moscow theater hostage crisis
+DIS012681	Methotrexate-induced papular eruption
+DIS012682	Molluscum dermatitis
+DIS012683	Psyllid yellows
+DIS012684	Aberfan disaster
+DIS012685	Visit Delaware
+DIS012686	Pin (amateur wrestling)
+DIS012687	Mebibit
+DIS012688	Nicolau–Balus syndrome
+DIS012689	Capacitance
+DIS012690	Navuluru
+DIS012691	Rasmussen syndrome
+DIS012692	Brooke–Fordyce syndrome
+DIS012693	Germline mosaicism
+DIS012694	Isay reaction
+DIS012695	Sinus tubercle
+DIS012696	Kochi reaction
+DIS012697	Toba catastrophe theory
+DIS012698	Chugaev elimination
+DIS012699	Paal–Knorr synthesis
+DIS012700	Pigeon pox
+DIS012701	Williamson ether synthesis
+DIS012702	Candidatus Phytoplasma fraxini
+DIS012703	Chilean frigate Chile (1840)
+DIS012704	Corn smut
+DIS012705	Cholestatic pruritus
+DIS012706	Scalp dysesthesia
+DIS012707	Keratosis punctata of the palmar creases
+DIS012708	1863–1875 cholera pandemic
+DIS012709	Chromosomal deletion syndrome
+DIS012710	Idiopathic granulomatous hepatitis
+DIS012711	Seal finger
+DIS012712	Microvascular occlusion
+DIS012713	Steatocystoma simplex
+DIS012714	Epididymal cyst
+DIS012715	Trigeminal trophic syndrome
+DIS012716	Bone marrow suppression
+DIS012717	Adipomastia
+DIS012718	Instrument myopia
+DIS012719	Congenital hypertrophy of the lateral fold of the hallux
+DIS012720	Atypical tuberous myxedema
+DIS012721	Waxy skin
+DIS012722	Sinoatrial arrest
+DIS012723	Bowen–Conradi syndrome
+DIS012724	Janus kinase 3 deficiency
+DIS012725	Obliterating endarteritis
+DIS012726	Paroniria
+DIS012727	Intra-abdominal infection
+DIS012728	Photodermatosis
+DIS012729	Idiopathic eruptive macular pigmentation
+DIS012730	Riddoch syndrome
+DIS012731	Avellis syndrome
+DIS012732	Striate keratoderma
+DIS012733	Dust pneumonia
+DIS012734	Compound nevus
+DIS012735	Propofol infusion syndrome
+DIS012736	Attenuated patella alta
+DIS012737	Cryoglobulinemic purpura
+DIS012738	Ametropic amblyopia
+DIS012739	Levodopa-induced dyskinesia
+DIS012740	Benign metastasizing leiomyoma
+DIS012741	Metopism
+DIS012742	Generalized erythema
+DIS012743	Synchysis scintillans
+DIS012744	Dermatophagia
+DIS012745	Status dystonicus
+DIS012746	Degloving
+DIS012747	Compensatory hyperhidrosis
+DIS012748	Acute eosinophilic pneumonia
+DIS012749	Myostatin-related muscle hypertrophy
+DIS012750	Bilharzial cor pulmonale
+DIS012751	Brainerd diarrhea
+DIS012752	Parasitic twin
+DIS012753	Diencephalic syndrome
+DIS012754	Peritoneal inclusion cyst
+DIS012755	Wartenberg's migratory sensory neuropathy
+DIS012756	Musicogenic epilepsy
+DIS012757	IgG4-related skin disease
+DIS012758	Adrenergic urticaria
+DIS012759	Drug-induced thrombocytopenic purpura
+DIS012760	Stannosis
+DIS012761	Limbal nodule
+DIS012762	Dysorthography
+DIS012763	Bisalbuminemia
+DIS012764	Keratic precipitate
+DIS012765	Pancolitis
+DIS012766	Chemical eye injury
+DIS012767	Microhydranencephaly
+DIS012768	Zechi-Ceide syndrome
+DIS012769	Pork–cat syndrome
+DIS012770	Chorionic hematoma
+DIS012771	Postanesthetic shivering
+DIS012772	Chronic wound pain
+DIS012773	Ventricular outflow tract obstruction
+DIS012774	Fibroma of tendon sheath
+DIS012775	Wende–Bauckus syndrome
+DIS012776	Chronic histiocytic intervillositis
+DIS012777	Sensory dysfunction disorder
+DIS012778	Diffuse infiltrative lymphocytosis syndrome
+DIS012779	Mungan syndrome
+DIS012780	Myomatous erythrocytosis syndrome
+DIS012781	Pregnancy and lactation-associated osteoporosis
+DIS012782	Lycopenemia
+DIS012783	Persistent tunica vasculosa lentis
+DIS012784	Hyperinsulinism hyperammonemia syndrome
+DIS012785	Aquadynia
+DIS012786	Perforated ulcer
+DIS012787	Neutrophilic dermatosis of the dorsal hands
+DIS012788	Ossifying fibromyxoid tumour
+DIS012789	Avulsion fracture
+DIS012790	TAN syndrome
+DIS012791	Palinacousis
+DIS012792	Mallet-Guy sign
+DIS012793	Pneumoscrotum
+DIS012794	Eruptive hypomelanosis
+DIS012795	Lycoperdonosis
+DIS012796	Gleich's syndrome
+DIS012797	Occult fracture
+DIS012798	Severe cutaneous adverse reactions
+DIS012799	Sick cell syndrome
+DIS012800	Cryofibrinogenemic purpura
+DIS012801	Vibratory angioedema
+DIS012802	Figurate erythema
+DIS012803	Traumatic cardiac arrest
+DIS012804	Growth arrest lines
+DIS012805	Srb's anomaly
+DIS012806	Keratinizing metaplasia
+DIS012807	Acute HME syndrome
+DIS012808	Rhythm interpretation
+DIS012809	Running injuries
+DIS012810	Cutaneous focal mucinosis
+DIS012811	Granular myringitis
+DIS012812	Capsulitis
+DIS012813	Infrapatellar bursitis
+DIS012814	Cheiralgia paresthetica
+DIS012815	Pineal gland cyst
+DIS012816	Dysmorphopsia
+DIS012817	Intestinal metaplasia
+DIS012818	Asomatognosia
+DIS012819	Fish sting
+DIS012820	Self-healing papular mucinosis
+DIS012821	Buccal bifurcation cyst
+DIS012822	Fields' disease
+DIS012823	Serous tumour
+DIS012824	Leukocyte adhesion molecule deficiency
+DIS012825	Verrucous lupus erythematosus
+DIS012826	Sudden unexplained death in childhood
+DIS012827	Burnside-Butler syndrome
+DIS012828	Collagen-induced arthritis
+DIS012829	Cruveilhier–Baumgarten disease
+DIS012830	Progressive outer retinal necrosis
+DIS012831	Seborrheic-like psoriasis
+DIS012832	Pseudomyopia
+DIS012833	Hypotonic-hyporesponsive episode
+DIS012834	Trilateral retinoblastoma
+DIS012835	Synaptopathy
+DIS012836	Esthiomene
+DIS012837	Galli–Galli disease
+DIS012838	Lipoblastoma
+DIS012839	Papular mucinosis of infancy
+DIS012840	Ulna fracture
+DIS012841	Anterior horn disease
+DIS012842	Lisch nodule
+DIS012843	Reactive neutrophilic dermatoses
+DIS012844	Pellegrini–Stieda syndrome
+DIS012845	Perinatal gangrene of the buttock
+DIS012846	Scratch dermatitis
+DIS012847	Proteopathy
+DIS012848	Nevus sebaceous
+DIS012849	Amyloid-related imaging abnormalities
+DIS012850	Knobloch syndrome
+DIS012851	Marshall–White syndrome
+DIS012852	Limb body wall complex
+DIS012853	Anisopoikilocytosis
+DIS012854	Septal panniculitis
+DIS012855	Gram-negative toe web infection
+DIS012856	Wilkinson's syndrome
+DIS012857	Riga–Fede disease
+DIS012858	Killian–Jamieson diverticulum
+DIS012859	Intrusive thought
+DIS012860	Strangury
+DIS012861	Problematic social media use
+DIS012862	Advanced cardiac life support
+DIS012863	White band disease
+DIS012864	Myxoid lipoblastoma
+DIS012865	Wheelchair
+DIS012866	Benjamin syndrome
+DIS012867	Vestibular papillomatosis
+DIS012868	Xanthogranulomatous inflammation
+DIS012869	Monoclonal B-cell lymphocytosis
+DIS012870	Minimal mesangial glomerulonephritis
+DIS012871	Ardalan–Shoja–Kiuru syndrome
+DIS012872	Automatic tachycardia
+DIS012873	Giant-cell fibroblastoma
+DIS012874	Focal proliferative nephritis
+DIS012875	Exercise hypertension
+DIS012876	Chronic functional abdominal pain
+DIS012877	Collapse (medical)
+DIS012878	Annular erythema of infancy
+DIS012879	Drug-induced lipodystrophy
+DIS012880	Eustachian tube dysfunction
+DIS012881	Caviar tongue
+DIS012882	Catheter-associated urinary tract infection
+DIS012883	Raccoon eyes
+DIS012884	Junctional rhythm
+DIS012885	Intermittent hair–follicle dystrophy
+DIS012886	Urachal fistula
+DIS012887	Localized heat contact urticaria
+DIS012888	Non-progressive late-onset linear hemifacial lipoatrophy
+DIS012889	Paederus dermatitis
+DIS012890	Monomania
+DIS012891	Idiopathic hypoglycemia
+DIS012892	Involutional lipoatrophy
+DIS012893	X-linked hypertrichosis
+DIS012894	Lipedematous alopecia
+DIS012895	Urolagnia
+DIS012896	High-functioning autism
+DIS012897	Papule
+DIS012898	Pseudo gray platelet syndrome
+DIS012899	Wilderness-acquired diarrhea
+DIS012900	Frequent urination
+DIS012901	Periodontosis
+DIS012902	Facial weakness
+DIS012903	Tachypnea
+DIS012904	Hypnosis
+DIS012905	Parapsychology
+DIS012906	SV40
+DIS012907	Leukoedema
+DIS012908	Microalbuminuria
+DIS012909	Mentorship
+DIS012910	Dopamine transporter deficiency syndrome
+DIS012911	Abdominal musculature absent with microphthalmia and joint laxity
+DIS012912	2019 dengue outbreak in Bangladesh
+DIS012913	Camel spongiform encephalopathy
+DIS012914	Cementicle
+DIS012915	Drug-related gingival hyperplasia
+DIS012916	Atrial enlargement
+DIS012917	Childbirth-related posttraumatic stress disorder
+DIS012918	Disseminated coccidioidomycosis
+DIS012919	Heel stick wound
+DIS012920	Developmental venous anomaly
+DIS012921	Boston exanthem disease
+DIS012922	Coxsackievirus-induced cardiomyopathy
+DIS012923	Community-acquired pneumonia
+DIS012924	Edema blister
+DIS012925	Heck's disease
+DIS012926	Elephantiasis nostras
+DIS012927	Axial spondyloarthritis
+DIS012928	Adams–Nance syndrome
+DIS012929	Chromobacteriosis infection
+DIS012930	Dermatopathic lymphadenopathy
+DIS012931	Bowel-associated dermatosis–arthritis syndrome
+DIS012932	Eosinophilic pustular folliculitis of infancy
+DIS012933	Erisipela de la costa
+DIS012934	Glomerulopathy
+DIS012935	Familial eosinophilia
+DIS012936	Critical illness-related corticosteroid insufficiency
+DIS012937	Abnormal urine color
+DIS012938	Hairy palms and soles
+DIS012939	Dental trauma
+DIS012940	Chronic subjective dizziness
+DIS012941	Gonococcemia
+DIS012942	Basaloid large cell carcinoma of the lung
+DIS012943	Gouverneur’s syndrome
+DIS012944	Aortic rupture
+DIS012945	End stage pulmonary disease
+DIS012946	Accommodative infacility
+DIS012947	Cysticercosis cutis
+DIS012948	Exanthematic pustular psoriasis
+DIS012949	Epithelial-myoepithelial carcinoma of the lung
+DIS012950	Alpha-aminoadipic and alpha-ketoadipic aciduria
+DIS012951	Cor bovinum
+DIS012952	Drug-induced keratoderma
+DIS012953	Erosio interdigitalis blastomycetica
+DIS012954	Abdominal chemodectomas with cutaneous angiolipomas
+DIS012955	Extensively drug-resistant tuberculosis
+DIS012956	Eruptive pseudoangiomatosis
+DIS012957	Cancer signs and symptoms
+DIS012958	Cerebral creatine deficiency
+DIS012959	Heat edema
+DIS012960	Epidermolytic acanthoma
+DIS012961	Apparent leukonychia
+DIS012962	CMV polyradiculomyelopathy
+DIS012963	Grey Turner's sign
+DIS012964	Acute uric acid nephropathy
+DIS012965	Facies (medical)
+DIS012966	Acute cutaneous lupus erythematosus
+DIS012967	Anti-IgLON5 disease
+DIS012968	Disseminate and recurrent infundibulofolliculitis
+DIS012969	Cystic lesions of the pancreas
+DIS012970	Adenosquamous lung carcinoma
+DIS012971	Childhood tumor syndrome
+DIS012972	Alexithymia
+DIS012973	Chronic undermining burrowing ulcer
+DIS012974	Allochiria
+DIS012975	Critical green inclusion
+DIS012976	Dermatitis gangrenosa
+DIS012977	Alkhurma virus
+DIS012978	Granulomatous prostatitis
+DIS012979	Familial British dementia
+DIS012980	Common seborrheic keratosis
+DIS012981	Exercise amenorrhoea
+DIS012982	Cystic lymphatic malformation
+DIS012983	Delusional misidentification syndrome
+DIS012984	Acute visual loss
+DIS012985	Acquired perforating dermatosis
+DIS012986	EML4-ALK positive lung cancer
+DIS012987	Corpse Reviver
+DIS012988	Embryocardia
+DIS012989	Erythromelanosis follicularis faciei et colli
+DIS012990	Dennie–Marfan syndrome
+DIS012991	Duroziez's disease
+DIS012992	Clinical lycanthropy
+DIS012993	Alphavirus infection
+DIS012994	Carotidynia
+DIS012995	Cancer in adolescents and young adults
+DIS012996	Corticosteroid-induced lipodystrophy
+DIS012997	Generalized vaccinia
+DIS012998	Cutis marmorata
+DIS012999	Hapalonychia
+DIS013000	Blistering distal dactylitis
+DIS013001	Dermatosis neglecta
+DIS013002	Eosinophilic dermatosis
+DIS013003	Balamuthia infection
+DIS013004	Congenital erosive and vesicular dermatosis
+DIS013005	Gingival fibroma
+DIS013006	Candidal intertrigo
+DIS013007	Acinic cell carcinoma of the lung
+DIS013008	Cock's peculiar tumour
+DIS013009	Cutaneous actinomycosis
+DIS013010	Granular parakeratosis
+DIS013011	Extraskeletal chondroma
+DIS013012	Familial amyloid cardiomyopathy
+DIS013013	Hemihyperplasia–multiple lipomatosis syndrome
+DIS013014	Helsmoortel-Van der Aa syndrome
+DIS013015	Autoimmune gastrointestinal dysmotility
+DIS013016	Ciliated cyst of the vulva
+DIS013017	Dyserythropoiesis
+DIS013019	Borderline intellectual functioning
+DIS013020	Collaural fistula
+DIS013021	Athymhormic syndrome
+DIS013022	Anosodiaphoria
+DIS013023	Charcot–Bouchard aneurysm
+DIS013024	Condensing osteitis
+DIS013025	Anisomastia
+DIS013026	Clonal seborrheic keratosis
+DIS013027	Video game addiction
+DIS013028	Alimentary toxic aleukia
+DIS013029	Alpha cell hyperplasia
+DIS013030	Central centrifugal cicatricial alopecia
+DIS013031	Galactorrhea hyperprolactinemia
+DIS013032	Eccrine mucinosis
+DIS013033	Embryoma
+DIS013034	Attachment disorder
+DIS013035	Early pregnancy bleeding
+DIS013036	Congenital cutaneous candidiasis
+DIS013037	Fibro-adipose vascular anomaly
+DIS013038	Dysplastic nail
+DIS013039	Buried bumper syndrome
+DIS013040	Biphenotypic sinonasal sarcoma
+DIS013041	Folliculosebaceous cystic hamartoma
+DIS013042	Ataxia-pancytopenia syndrome
+DIS013043	Bing–Neel syndrome
+DIS013044	Cardiac allograft vasculopathy
+DIS013045	Exercise-associated hyponatremia
+DIS013046	Excess ovarian androgen release syndrome
+DIS013047	Far East scarlet-like fever
+DIS013048	Drug-induced aseptic meningitis
+DIS013049	Calcific bursitis
+DIS013050	7q11.23 duplication syndrome
+DIS013051	Cerebral folate deficiency
+DIS013052	Helicobacter cellulitis
+DIS013053	Basaloid squamous cell lung carcinoma
+DIS013054	Fear of bees
+DIS013055	Brittle asthma
+DIS013056	Central nervous system primitive neuroectodermal tumor
+DIS013057	Chronic scar keratosis
+DIS013058	Hemihydranencephaly
+DIS013059	Diffuse neonatal hemangiomatosis
+DIS013060	Congenital cartilaginous rest of the neck
+DIS013061	Aortocaval compression syndrome
+DIS013062	Epstein–Barr virus-associated lymphoproliferative diseases
+DIS013063	Demodex mite bite
+DIS013064	Eosinophilic vasculitis
+DIS013065	Coma blister
+DIS013066	Bahima disease
+DIS013067	Havana syndrome
+DIS013068	Foreign accent syndrome
+DIS013069	Giant-cell reticulohistiocytoma
+DIS013070	Ecchondroma
+DIS013071	Dacryphilia
+DIS013072	Baylisascaris procyonis
+DIS013073	Deer tick virus
+DIS013074	HIV-associated pruritus
+DIS013075	Antenatal depression
+DIS013076	Ceruminous adenoma
+DIS013077	Disease mongering
+DIS013078	Aggressive digital papillary adenocarcinoma
+DIS013079	Baggio–Yoshinari syndrome
+DIS013080	Bubble hair deformity
+DIS013081	Childhood rhabdomyosarcoma
+DIS013082	Cold sensitive antibodies
+DIS013083	Disinhibited social engagement disorder
+DIS013084	Achalasia microcephaly
+DIS013085	Acorea, microphthalmia and cataract syndrome
+DIS013086	Bone erosion
+DIS013087	Erosive pustular dermatitis of the scalp
+DIS013088	Extrapulmonary restriction
+DIS013089	Adenosine deaminase 2 deficiency
+DIS013090	Absent pulmonary valve syndrome
+DIS013091	Acalvaria
+DIS013092	Anterior urethral cancer
+DIS013093	Aggressive angiomyxoma
+DIS013094	Coral dermatitis
+DIS013095	Extracranial germ cell tumor
+DIS013096	Benign melanocytic nevus
+DIS013097	Crutch paralysis
+DIS013098	CFHR5 nephropathy
+DIS013099	Carcinoma ex pleomorphic adenoma
+DIS013100	Arsenical keratosis
+DIS013101	Baylisascaris shroederi
+DIS013102	Acanthamoeba infection
+DIS013103	Glutaminase deficiency
+DIS013104	Femoroacetabular impingement
+DIS013105	HIV associated cardiomyopathy
+DIS013106	Abandoned child syndrome
+DIS013107	Glial scar
+DIS013108	Balanitis circinata
+DIS013109	Abnormal basal metabolic rate
+DIS013110	Copper deficiency
+DIS013111	Conidiobolomycosis
+DIS013112	Dissociation (psychology)
+DIS013113	Achondrogenesis type 2
+DIS013114	Dyssomnia
+DIS013115	Flatulence
+DIS013116	Galactosemia
+DIS013117	Empyema
+DIS013118	Epstein syndrome
+DIS013119	Claustrophobia
+DIS013120	Dysuria
+DIS013121	Flushing (physiology)
+DIS013122	Amastia
+DIS013123	Abscess of thymus
+DIS013124	Christianson syndrome
+DIS013125	Facet syndrome
+DIS013126	Angiofibroma
+DIS013127	Bezoar
+DIS013128	Catabolysis
+DIS013129	Crystalluria
+DIS013130	Alastrim
+DIS013131	Essex-Lopresti fracture
+DIS013132	Chorditis
+DIS013133	Abdominal angina
+DIS013134	Bradypnea
+DIS013135	Haploinsufficiency of A20
+DIS013136	Cerebellar degeneration
+DIS013137	Carotid bruit
+DIS013138	Bochdalek hernia
+DIS013139	Altered level of consciousness
+DIS013140	Extravasation of urine
+DIS013141	Flinders Island spotted fever
+DIS013142	Enamel pearl
+DIS013143	Gosselin fracture
+DIS013144	Burping
+DIS013145	Gait abnormality
+DIS013146	Glandular and epithelial neoplasm
+DIS013147	Connective tissue neoplasm
+DIS013148	Half and half nail
+DIS013149	Angioleiomyoma
+DIS013150	California encephalitis orthobunyavirus
+DIS013151	Brugia timori
+DIS013152	Ectopic pancreas
+DIS013153	Acute eosinophilic leukemia
+DIS013154	Acute myeloblastic leukemia without maturation
+DIS013155	Adult polyglucosan body disease
+DIS013156	Dermanyssus gallinae
+DIS013157	Hardcastle syndrome
+DIS013158	Femoral fracture
+DIS013159	Frenulum breve
+DIS013160	Heavy menstrual bleeding
+DIS013161	Anterior interosseous syndrome
+DIS013162	Folliculitis decalvans
+DIS013163	Delusion
+DIS013164	Gait deviations
+DIS013165	Familial dysalbuminemic hyperthyroxinemia
+DIS013166	Diktyoma
+DIS013167	Fibrous tissue neoplasm
+DIS013168	Donath–Landsteiner hemolytic anemia
+DIS013169	Cystic, mucinous, and serous neoplasms
+DIS013170	Ductal, lobular, and medullary neoplasms
+DIS013171	Adnexal and skin appendage neoplasms
+DIS013172	Cat bite
+DIS013173	Epidermal nevus syndrome
+DIS013174	Centipede bite
+DIS013175	Glomerulosclerosis
+DIS013176	Ataxic cerebral palsy
+DIS013177	FACES syndrome
+DIS013178	Hashimoto's encephalopathy
+DIS013179	Acquired cystic kidney disease-associated renal cell carcinoma
+DIS013180	Familial aortic dissection
+DIS013181	Airport malaria
+DIS013182	2003 Midwest monkeypox outbreak
+DIS013183	Formication
+DIS013184	Discrete papular lichen myxedematosus
+DIS013185	Sexually transmitted diseases (STDs)
+DIS013508	Human rights in Armenia
+DIS013509	Indians in Italy
+DIS013515	Cancer in dogs
+DIS013517	Runting-stunting syndrome in broilers
+DIS013542	2015 Texas pool party incident
+DIS013558	1967 Newark riots
+DIS013575	HMS Beatrice (1860)
+DIS013576	Cancer in cats
+DIS013583	Unemployment in Spain
+DIS013596	1952 Commonwealth Prime Ministers' Economic Conference
+DIS013611	Vietnamese people in Hong Kong
+DIS013612	Abell 2142
+DIS013614	1947 Prince Edward Island general election
+DIS013617	1968 New York City riot
+DIS013653	Asian migrant brides in Japan
+DIS013665	Scilly naval disaster of 1707
+DIS013667	Diabetes in dogs
+DIS013675	1998 National League Championship Series
+DIS013681	2011 Vancouver Stanley Cup riot
+DIS013696	1904 Pictorial 4d Lake Taupo invert
+DIS013702	Streptococcal infection in poultry
+DIS013710	Belgium at the 1900 Summer Olympics
+DIS013712	St. Spyridon Parish of South East Sydney
+DIS013720	HMS Elk (1847)
+DIS013728	Human trafficking in Europe
+DIS013763	2012 Kermadec Islands eruption
+DIS013769	Malnutrition in Peru
+DIS013780	1888 eruption of Mount Bandai
+DIS013786	List of sections of Chester city walls and associated structures
+DIS013787	Police brutality
+DIS013788	Domestic violence in Kenya
+DIS013806	Bladder cancer in cats and dogs
+DIS013822	Asian Dust
+DIS013841	Camouflage Europe Centrale
+DIS013854	Lucky Jack mine
+DIS013856	Pecan anthracnose
+DIS013860	Mills' Mess
+DIS013861	Email loop
+DIS013865	Groupshift
+DIS013866	Gibibit
+DIS013904	Basketball at the 1952 Summer Olympics
+DIS013938	Springfield race riot of 1908
+DIS013943	Turf necrotic ring spot
+DIS013947	Compressor stall
+DIS013950	P-factor
+DIS013954	Guardian US
+DIS013956	Spectator (Dungeons & Dragons)
+DIS013968	2014–2015 eruption of Bárðarbunga
+DIS013985	Child labor in Bolivia
+DIS013992	12:5
+DIS014049	Wavy steps and trails
+DIS014067	HMS Pelorus (1857)
+DIS014068	MD6
+DIS014095	1968 Detroit riot
+DIS014101	Pre-spawn mortality in coho salmon
+DIS014106	Diabetes in cats
+DIS014108	Argentina at the 1908 Summer Olympics
+DIS014114	1968 Kham Duc C-130 shootdown
+DIS014123	1984 Rajneeshee bioterror attack
+DIS014129	Acute haemorrhagic conjunctivitis in Ghana
+DIS014137	1966 Chicago West Side riots
+DIS014143	LGBT rights in Iowa
+DIS014161	Peninsula Malaysia tornado outbreak of 2014
+DIS014199	Ageing of Europe
+DIS014203	1970 Memorial Park riot
+DIS014216	Velvet (fish disease)
+DIS014247	1810 in New Zealand
+DIS014311	Drow
+DIS014314	2009 swine flu pandemic
