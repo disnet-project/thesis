@@ -1,0 +1,16 @@
+semantic_type	description
+lbpr	Laboratory Procedure
+diap	Diagnostic Procedure
+menp	Mental Process
+lbtr	Laboratory or Test Result
+comd	Cell or Molecular Dysfunction
+neop	Neoplastic Process
+cgab	Congenital Abnormality
+acab	Acquired Abnormality
+mobd	Mental or Behavioral Dysfunction
+patf	Pathologic Function
+sosy	Sign or Symptom
+dsyn	Disease or Syndrome
+fndg	Finding
+anab	Anatomical Abnormality
+clna	Clinical Attribute
