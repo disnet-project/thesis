@@ -1,0 +1,3541 @@
+conf_id	source_id	snapshot	tool_id	configuration
+mayoclinic:2018-08-15_1548241983209	SO03	2018-08-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-08-15_1548294727048	SO03	2018-08-15	SE006	"{
+  ""termsFound"": 43946,
+  ""nonRepetedTerms"": 4196,
+  ""validatedNonRepetedTerms"": 1066
+}"
+mayoclinic:2018-09-01_1548253331169	SO03	2018-09-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-09-01_1548780633268	SO03	2018-09-01	SE006	"{
+  ""termsFound"": 43910,
+  ""nonRepetedTerms"": 4187,
+  ""validatedNonRepetedTerms"": 1064
+}"
+mayoclinic:2018-09-15_1548257837716	SO03	2018-09-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-09-15_1548804381314	SO03	2018-09-15	SE006	"{
+  ""termsFound"": 43922,
+  ""nonRepetedTerms"": 4185,
+  ""validatedNonRepetedTerms"": 1064
+}"
+mayoclinic:2018-10-01_1548310603745	SO03	2018-10-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-10-01_1548808818928	SO03	2018-10-01	SE006	"{
+  ""termsFound"": 44017,
+  ""nonRepetedTerms"": 4190,
+  ""validatedNonRepetedTerms"": 1066
+}"
+mayoclinic:2018-10-15_1548310943118	SO03	2018-10-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-10-15_1548813927085	SO03	2018-10-15	SE006	"{
+  ""termsFound"": 43984,
+  ""nonRepetedTerms"": 4190,
+  ""validatedNonRepetedTerms"": 1068
+}"
+mayoclinic:2018-11-01_1548310885340	SO03	2018-11-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-11-01_1548845659171	SO03	2018-11-01	SE006	"{
+  ""termsFound"": 43963,
+  ""nonRepetedTerms"": 4186,
+  ""validatedNonRepetedTerms"": 1067
+}"
+mayoclinic:2018-11-15_1548311000049	SO03	2018-11-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-11-15_1548851393091	SO03	2018-11-15	SE006	"{
+  ""termsFound"": 43960,
+  ""nonRepetedTerms"": 4185,
+  ""validatedNonRepetedTerms"": 1067
+}"
+mayoclinic:2018-12-01_1548340836587	SO03	2018-12-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-12-01_1548858422340	SO03	2018-12-01	SE006	"{
+  ""termsFound"": 43970,
+  ""nonRepetedTerms"": 4186,
+  ""validatedNonRepetedTerms"": 1068
+}"
+mayoclinic:2018-12-15_1548340996434	SO03	2018-12-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-12-15_1548878057611	SO03	2018-12-15	SE006	"{
+  ""termsFound"": 44207,
+  ""nonRepetedTerms"": 4219,
+  ""validatedNonRepetedTerms"": 1069
+}"
+mayoclinic:2019-01-01_1548339865162	SO03	2019-01-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-01-01_1548884988285	SO03	2019-01-01	SE006	"{
+  ""termsFound"": 44253,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-01-15_1548341234655	SO03	2019-01-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-01-15_1548889240010	SO03	2019-01-15	SE006	"{
+  ""termsFound"": 44240,
+  ""nonRepetedTerms"": 4227,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-01-15_1550767566094	SO03	2019-01-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-01_1549210916958	SO03	2019-02-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-01_1549246405035	SO03	2019-02-01	SE006	"{
+  ""termsFound"": 44256,
+  ""nonRepetedTerms"": 4224,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-02-15_1550799904326	SO03	2019-02-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-15_1550882080526	SO03	2019-02-15	SE006	"{
+  ""termsFound"": 44303,
+  ""nonRepetedTerms"": 4227,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-03-01_1551925957134	SO03	2019-03-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-03-01_1551975294719	SO03	2019-03-01	SE006	"{
+  ""termsFound"": 44344,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-03-15_1553175284571	SO03	2019-03-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-03-15_1553516099642	SO03	2019-03-15	SE006	"{
+  ""termsFound"": 44352,
+  ""nonRepetedTerms"": 4224,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-04-01_1554372289347	SO03	2019-04-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-04-01_1554459263849	SO03	2019-04-01	SE006	"{
+  ""termsFound"": 44370,
+  ""nonRepetedTerms"": 4224,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-04-15_1556011782863	SO03	2019-04-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-04-15_1556095267207	SO03	2019-04-15	SE006	"{
+  ""termsFound"": 44341,
+  ""nonRepetedTerms"": 4223,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-05-01_1556889543074	SO03	2019-05-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-05-01_1559035502544	SO03	2019-05-01	SE006	"{
+  ""termsFound"": 44370,
+  ""nonRepetedTerms"": 4227,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-05-15_1559149659687	SO03	2019-05-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-05-15_1559290787637	SO03	2019-05-15	SE006	"{
+  ""termsFound"": 44364,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-06-01_1559573632976	SO03	2019-06-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-06-01_1560429747286	SO03	2019-06-01	SE006	"{
+  ""termsFound"": 44404,
+  ""nonRepetedTerms"": 4228,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-06-15_1560768601276	SO03	2019-06-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-06-15_1560851457767	SO03	2019-06-15	SE006	"{
+  ""termsFound"": 44389,
+  ""nonRepetedTerms"": 4229,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-07-01_1562325090584	SO03	2019-07-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-07-01_1562834362990	SO03	2019-07-01	SE006	"{
+  ""termsFound"": 44387,
+  ""nonRepetedTerms"": 4228,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-07-15_1563545957153	SO03	2019-07-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-07-15_1563837974464	SO03	2019-07-15	SE006	"{
+  ""termsFound"": 35532,
+  ""nonRepetedTerms"": 3761,
+  ""validatedNonRepetedTerms"": 1007
+}"
+mayoclinic:2019-08-01_1564942838936	SO03	2019-08-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-08-01_1565708499913	SO03	2019-08-01	SE006	"{
+  ""termsFound"": 44411,
+  ""nonRepetedTerms"": 4230,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-08-15_1566539200547	SO03	2019-08-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-08-15_1575591403818	SO03	2019-08-15	SE006	"{
+  ""termsFound"": 44478,
+  ""nonRepetedTerms"": 4233,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-09-01_1568453262508	SO03	2019-09-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-09-01_1568501539905	SO03	2019-09-01	SE006	"{
+  ""termsFound"": 44481,
+  ""nonRepetedTerms"": 4230,
+  ""validatedNonRepetedTerms"": 1070
+}"
+mayoclinic:2019-09-15_1572520170932	SO03	2019-09-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-09-15_1575758369320	SO03	2019-09-15	SE006	"{
+  ""termsFound"": 44475,
+  ""nonRepetedTerms"": 4232,
+  ""validatedNonRepetedTerms"": 1073
+}"
+mayoclinic:2019-10-01_1572866335739	SO03	2019-10-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-10-01_1575843209098	SO03	2019-10-01	SE006	"{
+  ""termsFound"": 44475,
+  ""nonRepetedTerms"": 4232,
+  ""validatedNonRepetedTerms"": 1073
+}"
+mayoclinic:2019-10-15_1573119743278	SO03	2019-10-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-10-15_1575888510415	SO03	2019-10-15	SE006	"{
+  ""termsFound"": 44475,
+  ""nonRepetedTerms"": 4232,
+  ""validatedNonRepetedTerms"": 1073
+}"
+mayoclinic:2019-11-01_1573551877252	SO03	2019-11-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-11-01_1575940547354	SO03	2019-11-01	SE006	"{
+  ""termsFound"": 44478,
+  ""nonRepetedTerms"": 4231,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-11-15_1574937569683	SO03	2019-11-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-11-15_1575983379517	SO03	2019-11-15	SE006	"{
+  ""termsFound"": 44393,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1070
+}"
+mayoclinic:2019-12-01_1576067325907	SO03	2019-12-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-12-01_1576247608167	SO03	2019-12-01	SE006	"{
+  ""termsFound"": 44392,
+  ""nonRepetedTerms"": 4224,
+  ""validatedNonRepetedTerms"": 1070
+}"
+mayoclinic:2019-12-15_1581325224000	SO03	2019-12-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-12-15_1581597629027	SO03	2019-12-15	SE006	"{
+  ""termsFound"": 44540,
+  ""nonRepetedTerms"": 4225,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2020-01-01_1581336677206	SO03	2020-01-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2020-01-01_1586017298824	SO03	2020-01-01	SE006	"{
+  ""termsFound"": 44560,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1073
+}"
+mayoclinic:2020-01-15_1581344635005	SO03	2020-01-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2020-01-15_1586111033546	SO03	2020-01-15	SE006	"{
+  ""termsFound"": 44575,
+  ""nonRepetedTerms"": 4230,
+  ""validatedNonRepetedTerms"": 1073
+}"
+mayoclinic:2020-02-01_1583497543959	SO03	2020-02-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2020-02-01_1586276825052	SO03	2020-02-01	SE006	"{
+  ""termsFound"": 44556,
+  ""nonRepetedTerms"": 4232,
+  ""validatedNonRepetedTerms"": 1074
+}"
+mayoclinic:2020-02-15_1583921463450	SO03	2020-02-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2020-02-15_1586287544903	SO03	2020-02-15	SE006	"{
+  ""termsFound"": 44562,
+  ""nonRepetedTerms"": 4230,
+  ""validatedNonRepetedTerms"": 1074
+}"
+mayoclinic:2020-03-01_1583932928638	SO03	2020-03-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2020-03-01_1586327549338	SO03	2020-03-01	SE006	"{
+  ""termsFound"": 44578,
+  ""nonRepetedTerms"": 4232,
+  ""validatedNonRepetedTerms"": 1074
+}"
+pubmed:2018-04-03_1528277376505	SO02	2018-04-03	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+pubmed:2018-04-03_1548190457660	SO02	2018-04-03	SE006	"{
+  ""termsFound"": 1230046,
+  ""nonRepetedTerms"": 22521,
+  ""validatedNonRepetedTerms"": 2043
+}"
+wikipedia:2018-02-01_1517516568836	SO01	2018-02-01	SE010	"{
+  ""albumId"": ""vdivtentasyw"",
+  ""version"": ""2018-02-01"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-02-01_1544870081020	SO01	2018-02-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-02-01_1546467324559	SO01	2018-02-01	SE006	"{
+  ""termsFound"": 186389,
+  ""nonRepetedTerms"": 13362,
+  ""validatedNonRepetedTerms"": 1933
+}"
+wikipedia:2018-02-15_1518696999402	SO01	2018-02-15	SE010	"{
+  ""albumId"": ""iczr1hosop3z"",
+  ""version"": ""2018-02-15"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-02-15_1544960897314	SO01	2018-02-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-02-15_1546657962392	SO01	2018-02-15	SE006	"{
+  ""termsFound"": 186784,
+  ""nonRepetedTerms"": 13386,
+  ""validatedNonRepetedTerms"": 1935
+}"
+wikipedia:2018-03-01_1518516568834	SO01	2018-03-01	SE010	{   "albumId": "ffmqpityntpm",   "version": "2018-03-01",   "numberDiseases": 8161,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010" }
+wikipedia:2018-03-01_1545013315513	SO01	2018-03-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-03-01_1546661531739	SO01	2018-03-01	SE006	"{
+  ""termsFound"": 187598,
+  ""nonRepetedTerms"": 13423,
+  ""validatedNonRepetedTerms"": 1938
+}"
+wikipedia:2018-03-15_1521139179912	SO01	2018-03-15	SE010	"{
+  ""albumId"": ""tvkbevsk56jm"",
+  ""version"": ""2018-03-15"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-03-15_1521810694353	SO01	2018-03-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-03-15_1546880355157	SO01	2018-03-15	SE006	"{
+  ""termsFound"": 189191,
+  ""nonRepetedTerms"": 13460,
+  ""validatedNonRepetedTerms"": 1943
+}"
+wikipedia:2018-04-01_1522680967642	SO01	2018-04-01	SE010	{   "albumId": "go7ehe7l2da4",   "version": "2018-04-01",   "numberDiseases": 9857,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010",   "useDiseaseSafeList": true }
+wikipedia:2018-04-01_1545173221373	SO01	2018-04-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-04-01_1547431721801	SO01	2018-04-01	SE006	"{
+  ""termsFound"": 197287,
+  ""nonRepetedTerms"": 13637,
+  ""validatedNonRepetedTerms"": 1950
+}"
+wikipedia:2018-04-15_1523806135063	SO01	2018-04-15	SE010	"{
+  ""albumId"": ""tx1ycnkm1hlb"",
+  ""version"": ""2018-04-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": false
+}"
+wikipedia:2018-04-15_1545217629933	SO01	2018-04-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-04-15_1547471841279	SO01	2018-04-15	SE006	"{
+  ""termsFound"": 197840,
+  ""nonRepetedTerms"": 13647,
+  ""validatedNonRepetedTerms"": 1951
+}"
+wikipedia:2018-05-01_1525176323088	SO01	2018-05-01	SE010	"{
+  ""albumId"": ""g0imwb1bdkbv"",
+  ""version"": ""2018-05-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-05-01_1545261525045	SO01	2018-05-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-05-01_1547483755186	SO01	2018-05-01	SE006	"{
+  ""termsFound"": 198733,
+  ""nonRepetedTerms"": 13669,
+  ""validatedNonRepetedTerms"": 1955
+}"
+wikipedia:2018-05-15_1526648508464	SO01	2018-05-15	SE010	"{
+  ""albumId"": ""uiqeqesnkaid"",
+  ""version"": ""2018-05-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-05-15_1545303527019	SO01	2018-05-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-05-15_1547510628959	SO01	2018-05-15	SE006	"{
+  ""termsFound"": 199733,
+  ""nonRepetedTerms"": 13726,
+  ""validatedNonRepetedTerms"": 1956
+}"
+wikipedia:2018-06-01_1527849590084	SO01	2018-06-01	SE010	"{
+  ""albumId"": ""vttqm3rasxta"",
+  ""version"": ""2018-06-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-06-01_1545357217458	SO01	2018-06-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-06-01_1547571080054	SO01	2018-06-01	SE006	"{
+  ""termsFound"": 206111,
+  ""nonRepetedTerms"": 13886,
+  ""validatedNonRepetedTerms"": 1965
+}"
+wikipedia:2018-06-15_1529065850294	SO01	2018-06-15	SE010	"{
+  ""albumId"": ""dmkqkfjmufvu"",
+  ""version"": ""2018-06-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-06-15_1545422619484	SO01	2018-06-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-06-15_1547603975984	SO01	2018-06-15	SE006	"{
+  ""termsFound"": 213598,
+  ""nonRepetedTerms"": 14203,
+  ""validatedNonRepetedTerms"": 1969
+}"
+wikipedia:2018-07-01_1531914920245	SO01	2018-07-01	SE010	"{
+  ""albumId"": ""cyolyt5iiwzu"",
+  ""version"": ""2018-07-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-07-01_1545517527729	SO01	2018-07-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-07-01_1547636342011	SO01	2018-07-01	SE006	"{
+  ""termsFound"": 208660,
+  ""nonRepetedTerms"": 14014,
+  ""validatedNonRepetedTerms"": 1971
+}"
+wikipedia:2018-07-15_1531914973753	SO01	2018-07-15	SE010	"{
+  ""albumId"": ""v7pxt3xv0zpx"",
+  ""version"": ""2018-07-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-07-15_1545567158387	SO01	2018-07-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-07-15_1547667690277	SO01	2018-07-15	SE006	"{
+  ""termsFound"": 209187,
+  ""nonRepetedTerms"": 14030,
+  ""validatedNonRepetedTerms"": 1973
+}"
+wikipedia:2018-08-01_1533096013595	SO01	2018-08-01	SE010	"{
+  ""albumId"": ""ajwj1fwsxpqh"",
+  ""version"": ""2018-08-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-08-01_1545642053562	SO01	2018-08-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-08-01_1547683157426	SO01	2018-08-01	SE006	"{
+  ""termsFound"": 209905,
+  ""nonRepetedTerms"": 14052,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-08-15_1534316074478	SO01	2018-08-15	SE010	"{
+  ""albumId"": ""rqptre0vc10i"",
+  ""version"": ""2018-08-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-08-15_1545687332573	SO01	2018-08-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-08-15_1547708765138	SO01	2018-08-15	SE006	"{
+  ""termsFound"": 210399,
+  ""nonRepetedTerms"": 14058,
+  ""validatedNonRepetedTerms"": 1975
+}"
+wikipedia:2018-09-01_1535836836019	SO01	2018-09-01	SE010	"{
+  ""albumId"": ""7hicvk0duv40"",
+  ""version"": ""2018-09-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-09-01_1545736130081	SO01	2018-09-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-09-01_1547720142335	SO01	2018-09-01	SE006	"{
+  ""termsFound"": 210673,
+  ""nonRepetedTerms"": 14061,
+  ""validatedNonRepetedTerms"": 1975
+}"
+wikipedia:2018-09-15_1536988072973	SO01	2018-09-15	SE010	"{
+  ""albumId"": ""ueur88feoutx"",
+  ""version"": ""2018-09-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-09-15_1545814857153	SO01	2018-09-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-09-15_1547734929583	SO01	2018-09-15	SE006	"{
+  ""termsFound"": 210557,
+  ""nonRepetedTerms"": 14061,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-10-01_1538371042397	SO01	2018-10-01	SE010	"{
+  ""albumId"": ""e43nn0iyveaq"",
+  ""version"": ""2018-10-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-10-01_1545863006331	SO01	2018-10-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-10-01_1547750067814	SO01	2018-10-01	SE006	"{
+  ""termsFound"": 210892,
+  ""nonRepetedTerms"": 14071,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-10-15_1539591412794	SO01	2018-10-15	SE010	"{
+  ""albumId"": ""i5owreducptb"",
+  ""version"": ""2018-10-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-10-15_1545908721720	SO01	2018-10-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-10-15_1547762552835	SO01	2018-10-15	SE006	"{
+  ""termsFound"": 211469,
+  ""nonRepetedTerms"": 14089,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-11-01_1541044838537	SO01	2018-11-01	SE010	"{
+  ""albumId"": ""nllg3tkuqd1i"",
+  ""version"": ""2018-11-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-11-01_1545952649884	SO01	2018-11-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-11-01_1547774652341	SO01	2018-11-01	SE006	"{
+  ""termsFound"": 211993,
+  ""nonRepetedTerms"": 14103,
+  ""validatedNonRepetedTerms"": 1971
+}"
+wikipedia:2018-11-15_1542270413804	SO01	2018-11-15	SE010	"{
+  ""albumId"": ""jmpkbyzmuvse"",
+  ""version"": ""2018-11-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-11-15_1545999361285	SO01	2018-11-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-11-15_1547817834568	SO01	2018-11-15	SE006	"{
+  ""termsFound"": 212904,
+  ""nonRepetedTerms"": 14128,
+  ""validatedNonRepetedTerms"": 1973
+}"
+wikipedia:2018-12-01_1543672471466	SO01	2018-12-01	SE010	"{
+  ""albumId"": ""ggjmwrfiskys"",
+  ""version"": ""2018-12-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-12-01_1546091314755	SO01	2018-12-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-12-01_1547849166868	SO01	2018-12-01	SE006	"{
+  ""termsFound"": 213747,
+  ""nonRepetedTerms"": 14179,
+  ""validatedNonRepetedTerms"": 1977
+}"
+wikipedia:2018-12-15_1545132233016	SO01	2018-12-15	SE010	"{
+  ""albumId"": ""uw5nmcf33ru9"",
+  ""version"": ""2018-12-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-12-15_1546143405177	SO01	2018-12-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-12-15_1547940865251	SO01	2018-12-15	SE006	"{
+  ""termsFound"": 214890,
+  ""nonRepetedTerms"": 14198,
+  ""validatedNonRepetedTerms"": 1979
+}"
+wikipedia:2019-01-01_1546963162799	SO01	2019-01-01	SE010	"{
+  ""albumId"": ""n6wa8fqwzxvo"",
+  ""version"": ""2019-01-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-01-01_1547550256420	SO01	2019-01-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-01-01_1547952551416	SO01	2019-01-01	SE006	"{
+  ""termsFound"": 215772,
+  ""nonRepetedTerms"": 14221,
+  ""validatedNonRepetedTerms"": 1982
+}"
+wikipedia:2019-01-15_1547728064423	SO01	2019-01-15	SE010	"{
+  ""albumId"": ""projz0udb5rz"",
+  ""version"": ""2019-01-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-01-15_1548205260348	SO01	2019-01-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-01-15_1548247424753	SO01	2019-01-15	SE006	"{
+  ""termsFound"": 216162,
+  ""nonRepetedTerms"": 14224,
+  ""validatedNonRepetedTerms"": 1982
+}"
+wikipedia:2019-02-01_1549203697541	SO01	2019-02-01	SE010	"{
+  ""albumId"": ""iw9wlerchjym"",
+  ""version"": ""2019-02-01"",
+  ""numberDiseases"": 11084,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-02-01_1549263528939	SO01	2019-02-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-02-01_1549291637422	SO01	2019-02-01	SE006	"{
+  ""termsFound"": 244103,
+  ""nonRepetedTerms"": 14760,
+  ""validatedNonRepetedTerms"": 2010
+}"
+wikipedia:2019-02-15_1550237576133	SO01	2019-02-15	SE010	"{
+  ""albumId"": ""wqqa7qlhonvr"",
+  ""version"": ""2019-02-15"",
+  ""numberDiseases"": 11084,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-02-15_1550452160253	SO01	2019-02-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-02-15_1550759979989	SO01	2019-02-15	SE006	"{
+  ""termsFound"": 244933,
+  ""nonRepetedTerms"": 14763,
+  ""validatedNonRepetedTerms"": 2010
+}"
+wikipedia:2019-03-01_1551827525764	SO01	2019-03-01	SE010	"{
+  ""albumId"": ""wrtkywbdfvxo"",
+  ""version"": ""2019-03-01"",
+  ""numberDiseases"": 11121,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-03-01_1552018723849	SO01	2019-03-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-03-01_1552051056502	SO01	2019-03-01	SE006	"{
+  ""termsFound"": 249620,
+  ""nonRepetedTerms"": 14894,
+  ""validatedNonRepetedTerms"": 2012
+}"
+wikipedia:2019-03-15_1552683577259	SO01	2019-03-15	SE010	"{
+  ""albumId"": ""3hylgd8v1ydp"",
+  ""version"": ""2019-03-15"",
+  ""numberDiseases"": 11125,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-03-15_1552749535045	SO01	2019-03-15	SE010	"{
+  ""albumId"": ""3hylgd8v1ydp"",
+  ""version"": ""2019-03-15"",
+  ""numberDiseases"": 11125,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-03-15_1552968021384	SO01	2019-03-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-03-15_1553874685027	SO01	2019-03-15	SE006	"{
+  ""termsFound"": 250477,
+  ""nonRepetedTerms"": 14916,
+  ""validatedNonRepetedTerms"": 2014
+}"
+wikipedia:2019-04-01_1554149447895	SO01	2019-04-01	SE010	"{
+  ""albumId"": ""gsa77ipg4c2y"",
+  ""version"": ""2019-04-01"",
+  ""numberDiseases"": 10160,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-04-01_1554195506726	SO01	2019-04-01	SE010	"{
+  ""albumId"": ""gsa77ipg4c2y"",
+  ""version"": ""2019-04-01"",
+  ""numberDiseases"": 10160,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-04-01_1554267601859	SO01	2019-04-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-04-01_1554395951079	SO01	2019-04-01	SE006	"{
+  ""termsFound"": 232421,
+  ""nonRepetedTerms"": 14582,
+  ""validatedNonRepetedTerms"": 2001
+}"
+wikipedia:2019-04-15_1555780826361	SO01	2019-04-15	SE010	"{
+  ""albumId"": ""cpvveeoifjwy"",
+  ""version"": ""2019-04-15"",
+  ""numberDiseases"": 11169,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-04-15_1555975406823	SO01	2019-04-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-04-15_1556019365114	SO01	2019-04-15	SE006	"{
+  ""termsFound"": 254842,
+  ""nonRepetedTerms"": 14975,
+  ""validatedNonRepetedTerms"": 2019
+}"
+wikipedia:2019-05-01_1556721018109	SO01	2019-05-01	SE010	"{
+  ""albumId"": ""h0xtjiglqs48"",
+  ""version"": ""2019-05-01"",
+  ""numberDiseases"": 11172,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-05-01_1556872120413	SO01	2019-05-01	SE010	"{
+  ""albumId"": ""h0xtjiglqs48"",
+  ""version"": ""2019-05-01"",
+  ""numberDiseases"": 11172,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-05-01_1557900489029	SO01	2019-05-01	SE010	"{
+  ""albumId"": ""h0xtjiglqs48"",
+  ""version"": ""2019-05-01"",
+  ""numberDiseases"": 11172,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-05-01_1557962165880	SO01	2019-05-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-05-01_1559043991626	SO01	2019-05-01	SE006	"{
+  ""termsFound"": 255953,
+  ""nonRepetedTerms"": 15005,
+  ""validatedNonRepetedTerms"": 2021
+}"
+wikipedia:2019-05-15_1557931615248	SO01	2019-05-15	SE010	"{
+  ""albumId"": ""n0b4puwvqfpr"",
+  ""version"": ""2019-05-15"",
+  ""numberDiseases"": 11177,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-05-15_1559033735747	SO01	2019-05-15	SE010	"{
+  ""albumId"": ""n0b4puwvqfpr"",
+  ""version"": ""2019-05-15"",
+  ""numberDiseases"": 11177,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-05-15_1559175506008	SO01	2019-05-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-05-15_1559299124001	SO01	2019-05-15	SE006	"{
+  ""termsFound"": 256540,
+  ""nonRepetedTerms"": 15026,
+  ""validatedNonRepetedTerms"": 2023
+}"
+wikipedia:2019-06-01_1559418548565	SO01	2019-06-01	SE010	"{
+  ""albumId"": ""fkgkjiddl71h"",
+  ""version"": ""2019-06-01"",
+  ""numberDiseases"": 11187,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-06-01_1559546548472	SO01	2019-06-01	SE010	"{
+  ""albumId"": ""fkgkjiddl71h"",
+  ""version"": ""2019-06-01"",
+  ""numberDiseases"": 11187,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-06-01_1559613619560	SO01	2019-06-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-06-01_1560438037730	SO01	2019-06-01	SE006	"{
+  ""termsFound"": 258722,
+  ""nonRepetedTerms"": 15066,
+  ""validatedNonRepetedTerms"": 2024
+}"
+wikipedia:2019-06-01_1560756923419	SO01	2019-06-01	SE010	"{
+  ""albumId"": ""fkgkjiddl71h"",
+  ""version"": ""2019-06-01"",
+  ""numberDiseases"": 11187,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-06-15_1560613264163	SO01	2019-06-15	SE010	"{
+  ""albumId"": ""dnhyfokclbeg"",
+  ""version"": ""2019-06-15"",
+  ""numberDiseases"": 11228,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-06-15_1560763129425	SO01	2019-06-15	SE010	"{
+  ""albumId"": ""dnhyfokclbeg"",
+  ""version"": ""2019-06-15"",
+  ""numberDiseases"": 11228,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-06-15_1560905102397	SO01	2019-06-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-06-15_1560945839061	SO01	2019-06-15	SE006	"{
+  ""termsFound"": 259791,
+  ""nonRepetedTerms"": 15085,
+  ""validatedNonRepetedTerms"": 2025
+}"
+wikipedia:2019-07-01_1561995496203	SO01	2019-07-01	SE010	"{
+  ""albumId"": ""bz85qdo50x7d"",
+  ""version"": ""2019-07-01"",
+  ""numberDiseases"": 11278,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-07-01_1562018443022	SO01	2019-07-01	SE010	"{
+  ""albumId"": ""bz85qdo50x7d"",
+  ""version"": ""2019-07-01"",
+  ""numberDiseases"": 11278,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-07-01_1562204443871	SO01	2019-07-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-07-01_1562842364983	SO01	2019-07-01	SE006	"{
+  ""termsFound"": 261705,
+  ""nonRepetedTerms"": 15140,
+  ""validatedNonRepetedTerms"": 2027
+}"
+wikipedia:2019-07-15_1563204157388	SO01	2019-07-15	SE010	"{
+  ""albumId"": ""qr7manpxaue5"",
+  ""version"": ""2019-07-15"",
+  ""numberDiseases"": 11285,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-07-15_1563266984462	SO01	2019-07-15	SE010	"{
+  ""albumId"": ""qr7manpxaue5"",
+  ""version"": ""2019-07-15"",
+  ""numberDiseases"": 11285,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-07-15_1563636894358	SO01	2019-07-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-07-15_1563846440783	SO01	2019-07-15	SE006	"{
+  ""termsFound"": 262155,
+  ""nonRepetedTerms"": 15154,
+  ""validatedNonRepetedTerms"": 2027
+}"
+wikipedia:2019-08-01_1564677530160	SO01	2019-08-01	SE010	"{
+  ""albumId"": ""m7nbkzqqspbp"",
+  ""version"": ""2019-08-01"",
+  ""numberDiseases"": 11290,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-08-01_1564730567283	SO01	2019-08-01	SE010	"{
+  ""albumId"": ""m7nbkzqqspbp"",
+  ""version"": ""2019-08-01"",
+  ""numberDiseases"": 11290,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-08-01_1564992132802	SO01	2019-08-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-08-01_1565717000669	SO01	2019-08-01	SE006	"{
+  ""termsFound"": 263410,
+  ""nonRepetedTerms"": 15177,
+  ""validatedNonRepetedTerms"": 2027
+}"
+wikipedia:2019-08-15_1566029059788	SO01	2019-08-15	SE010	"{
+  ""albumId"": ""wehgslruugmx"",
+  ""version"": ""2019-08-15"",
+  ""numberDiseases"": 11625,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-08-15_1566160868135	SO01	2019-08-15	SE010	"{
+  ""albumId"": ""wehgslruugmx"",
+  ""version"": ""2019-08-15"",
+  ""numberDiseases"": 11625,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-08-15_1566284744237	SO01	2019-08-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-08-15_1570108122079	SO01	2019-08-15	SE006	"{
+  ""termsFound"": 282814,
+  ""nonRepetedTerms"": 15732,
+  ""validatedNonRepetedTerms"": 2049
+}"
+wikipedia:2019-09-01_1567388043382	SO01	2019-09-01	SE010	"{
+  ""albumId"": ""ovapni5ynhl9"",
+  ""version"": ""2019-09-01"",
+  ""numberDiseases"": 11625,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-09-01_1569335544565	SO01	2019-09-01	SE010	"{
+  ""albumId"": ""ovapni5ynhl9"",
+  ""version"": ""2019-09-01"",
+  ""numberDiseases"": 11625,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-09-01_1569468853308	SO01	2019-09-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-09-01_1575316917087	SO01	2019-09-01	SE006	"{
+  ""termsFound"": 284296,
+  ""nonRepetedTerms"": 15752,
+  ""validatedNonRepetedTerms"": 2049
+}"
+wikipedia:2019-09-15_1569399574132	SO01	2019-09-15	SE010	"{
+  ""albumId"": ""jrattyruasi9"",
+  ""version"": ""2019-09-15"",
+  ""numberDiseases"": 11659,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-09-15_1569489534037	SO01	2019-09-15	SE010	"{
+  ""albumId"": ""jrattyruasi9"",
+  ""version"": ""2019-09-15"",
+  ""numberDiseases"": 11659,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-09-15_1571871737880	SO01	2019-09-15	SE010	"{
+  ""albumId"": ""jrattyruasi9"",
+  ""version"": ""2019-09-15"",
+  ""numberDiseases"": 11659,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-09-15_1572500430749	SO01	2019-09-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-09-15_1575376942448	SO01	2019-09-15	SE006	"{
+  ""termsFound"": 285491,
+  ""nonRepetedTerms"": 15781,
+  ""validatedNonRepetedTerms"": 2051
+}"
+wikipedia:2019-10-01_1571952365288	SO01	2019-10-01	SE010	"{
+  ""albumId"": ""axvh77vkjcsc"",
+  ""version"": ""2019-10-01"",
+  ""numberDiseases"": 11829,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-10-01_1573002949782	SO01	2019-10-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-10-01_1575482845200	SO01	2019-10-01	SE006	"{
+  ""termsFound"": 288732,
+  ""nonRepetedTerms"": 15852,
+  ""validatedNonRepetedTerms"": 2053
+}"
+wikipedia:2019-10-15_1572170476225	SO01	2019-10-15	SE010	"{
+  ""albumId"": ""8ddtdgohsqep"",
+  ""version"": ""2019-10-15"",
+  ""numberDiseases"": 11835,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-10-15_1573096875783	SO01	2019-10-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-10-15_1575569272921	SO01	2019-10-15	SE006	"{
+  ""termsFound"": 289227,
+  ""nonRepetedTerms"": 15856,
+  ""validatedNonRepetedTerms"": 2053
+}"
+wikipedia:2019-11-01_1572903261847	SO01	2019-11-01	SE010	"{
+  ""albumId"": ""2paraswqaucv"",
+  ""version"": ""2019-11-01"",
+  ""numberDiseases"": 11843,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-11-01_1574309987823	SO01	2019-11-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-11-01_1576030989262	SO01	2019-11-01	SE006	"{
+  ""termsFound"": 290424,
+  ""nonRepetedTerms"": 15869,
+  ""validatedNonRepetedTerms"": 2049
+}"
+wikipedia:2019-11-15_1573889986577	SO01	2019-11-15	SE010	"{
+  ""albumId"": ""tshaoohghbuu"",
+  ""version"": ""2019-11-15"",
+  ""numberDiseases"": 11846,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-11-15_1574932770972	SO01	2019-11-15	SE010	"{
+  ""albumId"": ""tshaoohghbuu"",
+  ""version"": ""2019-11-15"",
+  ""numberDiseases"": 11846,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-11-15_1575042284453	SO01	2019-11-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-11-15_1576072451707	SO01	2019-11-15	SE006	"{
+  ""termsFound"": 291548,
+  ""nonRepetedTerms"": 15891,
+  ""validatedNonRepetedTerms"": 2050
+}"
+wikipedia:2019-12-01_1576118431773	SO01	2019-12-01	SE010	"{
+  ""albumId"": ""84zcmqew2np4"",
+  ""version"": ""2019-12-01"",
+  ""numberDiseases"": 11863,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-12-01_1576229359467	SO01	2019-12-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-12-01_1576326211106	SO01	2019-12-01	SE006	"{
+  ""termsFound"": 286630,
+  ""nonRepetedTerms"": 15795,
+  ""validatedNonRepetedTerms"": 2048
+}"
+wikipedia:2019-12-15_1580260989835	SO01	2019-12-15	SE010	"{
+  ""albumId"": ""vkef8tafagpa"",
+  ""version"": ""2019-12-15"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-12-15_1580714743903	SO01	2019-12-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-12-15_1581329630943	SO01	2019-12-15	SE006	"{
+  ""termsFound"": 300934,
+  ""nonRepetedTerms"": 15974,
+  ""validatedNonRepetedTerms"": 2055
+}"
+wikipedia:2020-01-01_1580326304915	SO01	2020-01-01	SE010	"{
+  ""albumId"": ""ysojbwpznygz"",
+  ""version"": ""2020-01-01"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2020-01-01_1580861749765	SO01	2020-01-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2020-01-01_1581341138408	SO01	2020-01-01	SE006	"{
+  ""termsFound"": 273567,
+  ""nonRepetedTerms"": 15375,
+  ""validatedNonRepetedTerms"": 2043
+}"
+wikipedia:2020-01-15_1580419923747	SO01	2020-01-15	SE010	"{
+  ""albumId"": ""g4nz3sdskf4y"",
+  ""version"": ""2020-01-15"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2020-01-15_1580931905011	SO01	2020-01-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2020-01-15_1581415296254	SO01	2020-01-15	SE006	"{
+  ""termsFound"": 307193,
+  ""nonRepetedTerms"": 16078,
+  ""validatedNonRepetedTerms"": 2060
+}"
+wikipedia:2020-02-01_1582837922748	SO01	2020-02-01	SE010	"{
+  ""albumId"": ""ryamcpauprk0"",
+  ""version"": ""2020-02-01"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2020-02-01_1583286759565	SO01	2020-02-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2020-02-01_1583765508913	SO01	2020-02-01	SE006	"{
+  ""termsFound"": 308727,
+  ""nonRepetedTerms"": 16111,
+  ""validatedNonRepetedTerms"": 2062
+}"
+wikipedia:2020-02-15_1583195889961	SO01	2020-02-15	SE010	"{
+  ""albumId"": ""fg3muw7ltonu"",
+  ""version"": ""2020-02-15"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2020-02-15_1583359053789	SO01	2020-02-15	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2020-02-15_1583802378054	SO01	2020-02-15	SE006	"{
+  ""termsFound"": 305727,
+  ""nonRepetedTerms"": 16076,
+  ""validatedNonRepetedTerms"": 2060
+}"
+wikipedia:2020-03-01_1583270407343	SO01	2020-03-01	SE010	"{
+  ""albumId"": ""psguhglgjmjb"",
+  ""version"": ""2020-03-01"",
+  ""numberDiseases"": 15133,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2020-03-01_1583435069789	SO01	2020-03-01	SE007	"{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2020-03-01_1583926344300	SO01	2020-03-01	SE006	"{
+  ""termsFound"": 310046,
+  ""nonRepetedTerms"": 16121,
+  ""validatedNonRepetedTerms"": 2060
+}"
